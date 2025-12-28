@@ -1,0 +1,668 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+303826014,K011,K011.00,Nephrotic syndrome with membranous glomerulonephritis,197590001,303826014,32
+303866013,K02y1,K02y100,Chronic exudative glomerulonephritis,197617009,303866013,32
+303867016,K02y2,K02y200,Chronic focal glomerulonephritis,197618004,303867016,32
+303868014,K02y3,K02y300,Chronic diffuse glomerulonephritis,197619007,303868014,32
+303877019,K0320,K032000,Focal membranoproliferative glomerulonephritis,197626007,303877019,32
+303881019,K0323,K032300,Anaphylactoid glomerulonephritis,197629000,303881019,32
+354516010,K036,K036.00,Cryoglobulinaemic glomerulonephritis,236505008,354516010,32
+354636018,K0A9,K0A9.00,Cytomegalovirus-induced glomerulonephritis,236590008,354636018,32
+303883016,K0325,K032500,Other familial glomerulonephritis,399340005,1778791010,32
+354348010,K032y-2,K032y12,Lobular glomerulonephritis NEC,52845002,87940013,32
+81261000006110,K03X,K03X.00,"Unsp nephrit synd, diff mesang prolif glomerulonephritis",197679002,303967017,32
+555201000006116,K021,K021.00,Chronic membranous glomerulonephritis,77182004,128137019,32
+666291000006116,K0324,K032400,Familial glomerulonephritis in Alport's syndrome,399340005,1786829010,32
+677971000006118,K032z,K032z00,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS,52845002,87940013,32
+303863017,K023,K023.00,Chronic rapidly progressive glomerulonephritis,236392004,354352010,32
+81251000006113,K03W,K03W.00,"Unsp nephrit synd, diff endocap prolif glomerulonephritis",3704008,7243014,32
+81581000006119,K03U,K03U.00,"Unspecif nephr synd, diff concentric glomerulonephritis",64212008,106739010,32
+3319041000006114,^ESCTHE331904,,Hemorrhagic pneumonia AND glomerulonephritis,50581000,84263015,32
+3319071000006118,^ESCTPU331907,,Pulmonary hemorrhage with glomerulonephritis,50581000,84267019,32
+3619221000006118,^ESCTSL361922,,SLE glomerulonephritis syndrome,68815009,114307010,32
+3319121000006118,^ESCTHA331912,,Haemorrhagic pneumonia AND glomerulonephritis,50581000,495716013,32
+3619241000006113,^ESCTSY361924,,Systemic lupus erythematosus glomerulonephritis syndrome,68815009,2621068010,32
+7724911000006113,^ESCTRE772491,,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714817004,3300531011,32
+7724951000006114,^ESCTRE772495,,Recurrent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714819001,3300537010,32
+2557891000006117,^ESCTDI255789,,Diffuse endocapillary proliferative glomerulonephritis,3704008,7243014,32
+3319111000006114,^ESCTPU331911,,Pulmonary haemosiderosis with glomerulonephritis,50581000,495715012,32
+3806551000006114,^ESCTMC380655,,MCGN - Mesangiocapillary glomerulonephritis,80321008,504397015,32
+12704531000006115,^ESCT1270453,,Chronic mesangial proliferative glomerulonephritis,197613008,303862010,32
+3403671000006118,^ESCTID340367,,"Idiopathic crescentic glomerulonephritis, type III",55652009,92508010,31
+3691811000006110,^ESCTSY369181,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class I",73286009,2914493017,31
+5093491000006117,^ESCTEN509349,,Endocapillary proliferative glomerulonephritis,236393009,3029306014,31
+3466101000006111,^ESCTME346610,,Mesangiocapillary glomerulonephritis type II,59479006,498445010,31
+3615311000006115,^ESCTPS361531,,PSGN - Post-streptococcal glomerulonephritis,68544003,1233061011,31
+2675191000006111,^ESCTSY267519,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class VI",11013005,2618654010,31
+8120531000006116,^ESCTNE812053,,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3,368911000119109,3289998016,31
+7958391000006116,^ESCTMI795839,,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome",733472005,3499508016,31
+8118551000006119,^ESCTHE811855,,Hereditary diffuse mesangiocapillary glomerulonephritis,367561000119103,3011796016,31
+2573631000006113,^ESCTSY257363,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class II",4676006,2914190010,31
+3086681000006116,^ESCTSL308668,,SLE with diffuse proliferative glomerulonephritis,36402006,60753010,31
+2573621000006110,^ESCTSY257362,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class II",4676006,2620769015,31
+2675181000006113,^ESCTSY267518,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class VI",11013005,2618653016,31
+3086721000006111,^ESCTSY308672,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class IV",36402006,2913796017,31
+3072641000006116,^ESCTME307264,,Mesangial proliferative glomerulonephritis,35546006,59308019,31
+3466081000006115,^ESCTME346608,,"Mesangiocapillary glomerulonephritis, type II",59479006,98800018,31
+8120481000006119,^ESCTRA812048,,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368881000119109,3289844019,31
+7827161000006116,^ESCTME782716,,Membranous glomerulonephritis due to malignant neoplastic disease,722086002,3330534016,31
+3543641000006111,^ESCTID354364,,"Idiopathic crescentic glomerulonephritis, type I",64168005,106670012,31
+7724961000006111,^ESCTPE772496,,Persistent haematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714820007,3300541014,31
+3744681000006118,^ESCTSY374468,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class III",76521009,2621117010,31
+7724921000006117,^ESCTPE772492,,Persistent haematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714818009,3300535019,31
+7689691000006113,^ESCTFO768969,,Focal mesangial proliferative glomerulonephritis,711531007,3078682014,31
+5095221000006119,^ESCTMA509522,,Malignancy-associated glomerulonephritis,236508005,354522018,31
+8118511000006115,^ESCTHE811851,,Hereditary diffuse endocapillary proliferative glomerulonephritis,367531000119106,3012598016,31
+6618781000006111,^ESCTNO661878,,Non-progressive hereditary glomerulonephritis,399190000,1778644011,31
+3086711000006115,^ESCTSY308671,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class IV",36402006,2620643017,31
+5093751000006115,^ESCTME509375,,Mesangiocapillary glomerulonephritis type III,236409000,354381011,31
+3734071000006111,^ESCTSU373407,,Subendothelial mesangiocapillary glomerulonephritis,75888001,1233930017,31
+7836071000006110,^ESCTCO783607,,Complement component 3 glomerulonephritis,722761003,3333382013,31
+3441621000006114,^ESCTAC344162,,Acute benign haemorrhagic glomerulonephritis,57965003,3035870010,31
+5093591000006118,^ESCTST509359,,Steroid-sensitive minimal change glomerulonephritis,236399008,354365018,31
+7876941000006116,^ESCTIM787694,,Immunotactoid glomerulonephritis,726082003,3448006018,31
+3618681000006111,^ESCTFO361868,,Focal glomerulonephritis,68779003,200022010,31
+8118471000006113,^ESCTHE811847,,"Hereditary mesangiocapillary glomerulonephritis, type 2",367511000119101,3012571015,31
+8033511000006111,^ESCTID803351,,Idiopathic glomerulonephritis,106911000119102,3013430019,31
+4355451000006111,^ESCTIM435545,,Immune-complex glomerulonephritis,123752003,192241013,31
+2573591000006113,^ESCTSL257359,,SLE with mesangial proliferative glomerulonephritis,4676006,8815011,31
+11921881000006117,^ESCT1192188,,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",438031000000105,891511000000117,31
+11921961000006119,^ESCT1192196,,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",396541000000106,891531000000113,31
+7044581000006114,^ESCTDI704458,,Diabetic glomerulonephritis,425455002,2674163019,31
+3744671000006116,^ESCTSY374467,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class III",76521009,2621116018,31
+3692101000006114,^ESCTFI369210,,Fibrillary glomerulonephritis,73305009,121734010,31
+8120471000006117,^ESCTAC812047,,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368871000119106,3289984012,31
+3343591000006116,^ESCTME334359,,Membranous lupus glomerulonephritis,52042003,86632012,31
+5093801000006110,^ESCTME509380,,Mesangial IgM proliferative glomerulonephritis,236411009,354386018,31
+3744641000006112,^ESCTSL374464,,"SLE glomerulonephritis syndrome, WHO class III",76521009,127076018,31
+303875010,K031,K031.00,Membranous glomerulonephritis,77182004,128137019,32
+354380012,K032y-4,K032y14,Mesangiocapillary glomerulonephritis,80321008,133280014,32
+189171000006118,K0A23,K0A2300,Recurrent haematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714825002,3300556017,32
+191841000006118,K0A15,K0A1500,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197695002,303983017,32
+440031000006117,K0A04,K0A0400,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197685009,303973016,32
+458521000006111,K0A07,K0A0700,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",197688006,303976012,32
+553191000006115,K0A34,K0A3400,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197712008,304009014,32
+555191000006119,K022,K022.00,Membranoproliferative glomerulonephritis,80321008,133282018,32
+677471000006110,K019,K019.00,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",197598008,303837010,32
+677621000006112,K012,K012.00,Nephrotic syndrome with membranoproliferative glomerulonephritis,197591002,303827017,32
+703451000006112,K0A47,K0A4700,"Isolated proteinuria with specified morphological lesion, diffuse concentric glomerulonephritis",197725000,304022018,32
+742231000006118,K0A44,K0A4400,"Isolated proteinuria with specified morphological lesion, diffuse endocapillary proliferative glomerulonephritis",197722002,304019015,32
+763111000006117,K0322,K032200,Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis,36171008,60355017,32
+7075651000006117,^ESCTGL707565,,Glomerulonephritis due to Wegener granulomatosis,427555000,2838811011,31
+3466091000006117,^ESCTMC346609,,"MCGNdd - Mesangiocapillary glomerulonephritis, dense deposit",59479006,498444014,31
+7836061000006115,^ESCTC3783606,,C3 (complement component 3) glomerulonephritis,722761003,3333381018,31
+7043491000006110,^ESCTSA704349,,Sarcoidosis with glomerulonephritis,425384007,2643832017,31
+8027031000006117,^ESCTGL802703,,Glomerulonephritis co-occurrent and due to scleroderma,89681000119101,3321219011,31
+5141531000006116,^ESCTPR514153,,Primary pauci-immune necrotizing and crescentic glomerulonephritis,239932005,359503012,31
+8120571000006118,^ESCTHE812057,,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III,368941000119108,3288695010,31
+8120521000006119,^ESCTNE812052,,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368911000119109,3290082017,31
+3086701000006118,^ESCTSY308670,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class IV",36402006,2620642010,31
+2675151000006117,^ESCTSL267515,,SLE with advanced sclerosing glomerulonephritis,11013005,19105014,31
+6621311000006115,^ESCTHE662131,,Hereditary glomerulonephritis,399340005,1786828019,32
+7075661000006115,^ESCTGL707566,,Glomerulonephritis co-occurrent and due to Wegener's granulomatosis,427555000,3312144012,31
+11926331000006119,^ESCT1192633,,Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis,197628008,303880018,31
+4788191000006111,^ESCTAC478819,,Acute glomerulonephritis associated with another disorder,197582001,2575722013,32
+5095151000006115,^ESCTCR509515,,Cryoglobulinemic glomerulonephritis,236505008,354517018,32
+5093731000006110,^ESCTIG509373,,IgA glomerulonephritis,236407003,2881692013,32
+7725071000006116,^ESCTRE772507,,Recurrent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714825002,3300555018,32
+3806561000006111,^ESCTMP380656,,MPGN - Membranoproliferative glomerulonephritis,80321008,504398013,32
+354363013,K0001,K000100,Crescentic glomerulonephritis,236398000,354363013,32
+303834015,K016,K016.00,"Nephrotic syndrome, diffuse membranous glomerulonephritis",197595006,303834015,32
+303839013,K01B,K01B.00,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",197600002,303839013,32
+7828121000006111,^ESCTME782812,,Membranous glomerulonephritis co-occurrent with infectious disease,722168002,3330960013,31
+8120501000006112,^ESCTCH812050,,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368901000119106,3289729012,31
+5093911000006118,^ESCTME509391,,Membranous glomerulonephritis stage V,236417008,354396010,31
+5093501000006113,^ESCTID509350,,Idiopathic endocapillary glomerulonephritis,236394003,354355012,31
+303907019,K03z,K03z.00,Glomerulonephritis,36171008,60355017,32
+191861000006119,K0A12,K0A1200,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",197692004,303980019,32
+191881000006112,K0A17,K0A1700,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",197697005,303985012,32
+555371000006118,K0A35,K0A3500,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197713003,304010016,32
+555381000006115,K0A37,K0A3700,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",197715005,304012012,32
+430091000006117,Kyu0A,Kyu0A00,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",3704008,7243014,32
+3615301000006118,^ESCTPO361530,,Post-streptococcal glomerulonephritis,68544003,1233060012,31
+5093891000006115,^ESCTME509389,,Membranous glomerulonephritis - stage IV,236416004,354395014,31
+2573611000006119,^ESCTSY257361,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class II",4676006,2620768011,31
+3691801000006112,^ESCTSY369180,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class I",73286009,2621152019,31
+8056041000006114,^ESCTCH805604,,Chronic proliferative glomerulonephritis,195791000119101,3013099011,31
+3744651000006114,^ESCTSL374465,,SLE with focal AND segmental proliferative glomerulonephritis,76521009,127078017,31
+3541411013,^ESCT1170579,,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis,101711000119105,3541411013,31
+8118531000006114,^ESCTHE811853,,Hereditary diffuse mesangial proliferative glomerulonephritis,367551000119100,3012584012,31
+6241711000006115,^ESCTNE624171,,Nephrotic syndrome secondary to glomerulonephritis,363233007,482373016,31
+8025531000006116,^ESCTGL802553,,Glomerulonephritis due to Henoch-SchÃ¶nlein purpura,85381000119105,3289360010,31
+4355461000006113,^ESCTIM435546,,Immune complex glomerulonephritis,123752003,3037280015,31
+7724891000006111,^ESCTPE772489,,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714816008,3300528010,31
+5093951000006117,^ESCTPR509395,,Progressive hereditary glomerulonephritis without deafness,236419006,354400010,31
+7725081000006118,^ESCTPE772508,,Persistent haematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714826001,3300559012,31
+5093771000006113,^ESCTME509377,,Mesangiocapillary glomerulonephritis type IV,236410005,354384015,31
+7725011000006113,^ESCTPE772501,,Persistent hematuria co-occurrent and due to diffuse membranous glomerulonephritis,714822004,3300546016,31
+5093881000006118,^ESCTMG509388,,MGN stage III - Membranous glomerulonephritis stage III,236415000,354393019,31
+3082891000006115,^ESCTGN308289,,GN - Glomerulonephritis,36171008,1228363011,32
+3319081000006115,^ESCTPU331908,,Pulmonary hemosiderosis with glomerulonephritis,50581000,84269016,32
+3319101000006111,^ESCTPU331910,,Pulmonary haemorrhage with glomerulonephritis,50581000,495714011,32
+3222401000006114,^ESCTLI322240,,Light negative glomerulonephritis,44785005,1230134014,32
+430101000006111,Kyu09,Kyu0900,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis",197679002,303967017,32
+554481000006111,K02y0,K02y000,Chronic glomerulonephritis + diseases EC,197616000,303865012,32
+8120551000006111,^ESCTIS812055,,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III,368931000119104,3289728016,31
+35171019,K02,K02..00,Chronic glomerulonephritis,20917003,35171019,32
+3441611000006118,^ESCTAC344161,,Acute benign hemorrhagic glomerulonephritis,57965003,3035851017,31
+5093831000006119,^ESCTME509383,,Membranous glomerulonephritis - stage I,236413007,354388017,31
+7255581000006116,^ESCTPR725558,,Proliferative glomerulonephritis,441815006,2817638012,31
+189131000006116,K0A27,K0A2700,Recurrent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714815007,3300526014,32
+189141000006114,K0A22,K0A2200,Recurrent haematuria co-occurrent and due to diffuse membranous glomerulonephritis,714821006,3300544018,32
+189161000006113,K0A24,K0A2400,Recurrent haematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714817004,3300532016,32
+458441000006117,K0A05,K0A0500,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",197686005,303974010,32
+677461000006115,K017,K017.00,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",197596007,303835019,32
+430591000006111,Kyu0C,Kyu0C00,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis",64212008,106739010,32
+354347017,K032y-3,K032y13,Chronic mesangial proliferative glomerulonephritis,197613008,303860019,32
+5093521000006115,^ESCTPO509352,,Post-infective glomerulonephritis,236395002,354356013,31
+3744691000006115,^ESCTSY374469,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class III",76521009,2914851014,31
+3466111000006114,^ESCTMC346611,,MCGN type II - Mesangiocapillary glomerulonephritis type II,59479006,498446011,31
+2675201000006114,^ESCTSY267520,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class VI",11013005,2914978012,31
+8118491000006114,^ESCTHE811849,,Hereditary diffuse crescentic glomerulonephritis,367521000119108,3012561017,31
+3864441000006115,^ESCTFO386444,,Focal AND segmental proliferative glomerulonephritis,83866005,139066015,31
+3734061000006116,^ESCTMC373406,,MCGN type I - Mesangiocapillary glomerulonephritis type I,75888001,1233929010,31
+8120561000006113,^ESCTIS812056,,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type 3,368931000119104,3289752011,31
+7725091000006115,^ESCTPE772509,,Persistent hematuria co-occurrent and due to diffuse mesangial proliferative glomerulonephritis,714826001,3300558016,31
+3343611000006110,^ESCTSY334361,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class V",52042003,2620728012,31
+3734051000006118,^ESCTME373405,,"Mesangiocapillary glomerulonephritis, type I",75888001,126049014,31
+3331116019,^ESCT1170580,,Glomerulonephritis due to antineutrophil cytoplasmic antibody (ANCA) positive vasculitis,101711000119105,3331116019,31
+5093761000006118,^ESCTMC509376,,MCGN type III - Mesangiocapillary glomerulonephritis type III,236409000,354382016,31
+3734081000006114,^ESCTME373408,,Mesangiocapillary glomerulonephritis type I,75888001,1233931018,31
+2832821000006115,^ESCTCG283282,,CGN - Chronic glomerulonephritis,20917003,1222585013,32
+3806541000006112,^ESCTLO380654,,Lobular glomerulonephritis,80321008,200856017,32
+5093471000006118,^ESCTRP509347,,RPGN - Rapidly progressive glomerulonephritis,236392004,354353017,32
+6621301000006118,^ESCTGN662130,,GN - Hereditary glomerulonephritis,399340005,1786827012,32
+3222361000006116,^ESCTMC322236,,MCGN - Minimal change glomerulonephritis,44785005,1230130017,32
+3222411000006112,^ESCTMI322241,,Minimal change glomerulonephritis,44785005,1230135010,32
+354346014,K032y-5,K032y15,Mixed membranous and proliferative glomerulonephritis NEC,52845002,87940013,32
+303815015,K00y,K00y.00,Other acute glomerulonephritis,19351000,32619017,32
+303824012,K00z,K00z.00,Acute glomerulonephritis NOS,19351000,32619017,32
+303869018,K02yz,K02yz00,Other chronic glomerulonephritis NOS,20917003,35171019,32
+303870017,K02z,K02z.00,Chronic glomerulonephritis NOS,20917003,35171019,32
+6205251000006115,^ESCTID620525,,"Idiopathic crescentic glomerulonephritis, type II",359694003,474699013,31
+354364019,K0001-1,K000111,CGN - Crescentic glomerulonephritis,236398000,354364019,32
+354632016,SP08b,SP08b00,De novo glomerulonephritis,236586006,354632016,32
+4353711000006115,^ESCTHE435371,,Healed glomerulonephritis,123610002,192099016,31
+5093611000006112,^ESCTST509361,,Steroid-dependent minimal change glomerulonephritis,236401002,354367014,31
+2521181000006116,^ESCTNE252118,,Necrotising glomerulonephritis,1426004,476201012,31
+4353701000006118,^ESCTSU435370,,Subacute glomerulonephritis,123609007,192098012,31
+7615481000006111,^ESCTRE761548,,Recurrent proliferative glomerulonephritis,707332000,3029689012,31
+189181000006115,K0A25,K0A2500,Recurrent haematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714819001,3300538017,32
+712841000006115,K0A42,K0A4200,"Isolated proteinuria with specified morphological lesion, diffuse membranous glomerulonephritis",197720005,304017018,32
+742241000006111,K0A43,K0A4300,"Isolated proteinuria with specified morphological lesion, diffuse mesangial proliferative glomerulonephritis",197721009,304018011,32
+8037721000006115,^ESCTGL803772,,Glomerulonephritis due to hepatitis C,120241000119100,3023324017,31
+5093511000006111,^ESCTPO509351,,Post-infectious glomerulonephritis,236395002,354357016,31
+8013961000006110,^ESCTCH801396,,Chronic nephritic syndrome with membranous glomerulonephritis,28191000119109,3078564018,31
+7724931000006119,^ESCTPE772493,,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,714818009,3300534015,31
+7768941000006112,^ESCTNO776894,,Non-amyloid fibrillary glomerulonephritis,718192000,3311447013,31
+7305291000006117,^ESCTID730529,,Idiopathic rapidly progressive glomerulonephritis,445258009,2872817010,31
+7827591000006117,^ESCTID782759,,Idiopathic membranous glomerulonephritis,722119002,3330958011,31
+5093781000006111,^ESCTMC509378,,MCGN type IV - Mesangiocapillary glomerulonephritis type IV,236410005,354383014,31
+5093871000006116,^ESCTME509387,,Membranous glomerulonephritis - stage III,236415000,354392012,31
+3343621000006119,^ESCTSY334362,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class V",52042003,2620729016,31
+745481000006111,K0A45,K0A4500,"Isolated proteinuria with specified morphological lesion, diffuse mesangiocapillary glomerulonephritis",197723007,304020014,32
+191851000006116,K0A14,K0A1400,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",197694003,303982010,32
+455321000006114,K0A03,K0A0300,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197684008,303972014,32
+2711281000006117,^ESCTSC271128,,Sclerosing glomerulonephritis,13335004,22804011,31
+8120491000006116,^ESCTRA812049,,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3,368881000119109,3289851011,31
+7725001000006110,^ESCTPE772500,,Persistent haematuria co-occurrent and due to diffuse membranous glomerulonephritis,714822004,3300547013,31
+5093841000006112,^ESCTMG509384,,MGN stage I - Membranous glomerulonephritis - stage I,236413007,354389013,31
+2807131000006118,^ESCTAC280713,,Acute exudative glomerulonephritis,19351000,195975011,32
+5096311000006113,^ESCTCM509631,,CMV - Cytomegalovirus-induced glomerulonephritis,236590008,354637010,32
+7724871000006110,^ESCTRE772487,,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714815007,3300525013,32
+4788511000006114,^ESCTCH478851,,Chronic glomerulonephritis associated with another disorder,197616000,2575711014,32
+5093551000006112,^ESCTID509355,,Idiopathic crescentic glomerulonephritis,236398000,354362015,32
+4788491000006115,^ESCTPG478849,,PGN - Chronic mesangial proliferative glomerulonephritis,197613008,303860019,32
+3755261000006110,^ESCTMG375526,,MGN - Membranous glomerulonephritis,77182004,1234073016,32
+556211000006112,K020,K020.00,Chronic proliferative glomerulonephritis,197613008,303862010,32
+677981000006115,K032y,K032y00,Nephritis unsp+OS membranoprolif glomerulonephritis lesion,52845002,87940013,32
+396706011,K013,K013.00,Nephrotic syndrome with minimal change glomerulonephritis,266549004,396706011,32
+2675141000006119,^ESCTSL267514,,"SLE glomerulonephritis syndrome, WHO class VI",11013005,19104013,31
+5093851000006114,^ESCTME509385,,Membranous glomerulonephritis - stage II,236414001,354391017,31
+5141521000006119,^ESCTPR514152,,Primary pauci-immune necrotising and crescentic glomerulonephritis,239932005,359502019,31
+5093541000006110,^ESCTPO509354,,Post-infectious glomerulonephritis - Garland variety,236397005,354360011,31
+5093861000006111,^ESCTMG509386,,MGN stage II - Membranous glomerulonephritis - stage II,236414001,354390016,31
+2573581000006110,^ESCTSL257358,,"SLE glomerulonephritis syndrome, WHO class II",4676006,8814010,31
+12107561000006114,^ESCT1210756,,Vasculitis with glomerulonephritis,90971000119103,3647363012,31
+5093481000006115,^ESCTEN509348,,Endocapillary glomerulonephritis,236393009,354354011,31
+3343571000006117,^ESCTSL334357,,"SLE glomerulonephritis syndrome, WHO class V",52042003,86630016,31
+3086671000006119,^ESCTSL308667,,"SLE glomerulonephritis syndrome, WHO class IV",36402006,60752017,31
+3343581000006119,^ESCTSL334358,,SLE with membranous glomerulonephritis,52042003,86631017,31
+7724881000006113,^ESCTPE772488,,Persistent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis,714816008,3300529019,31
+7724971000006116,^ESCTPE772497,,Persistent hematuria co-occurrent and due to diffuse mesangiocapillary glomerulonephritis,714820007,3300540010,31
+2521191000006118,^ESCTNE252119,,Necrotizing glomerulonephritis,1426004,3481019,31
+3403681000006115,^ESCTID340368,,Idiopathic crescentic glomerulonephritis type 3,55652009,3035785013,31
+5093921000006114,^ESCTMG509392,,MGN stage V - Membranous glomerulonephritis stage V,236417008,354397018,31
+3343631000006116,^ESCTSY334363,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class V",52042003,2913649018,31
+3691761000006115,^ESCTSL369176,,"SLE glomerulonephritis syndrome, WHO class I",73286009,121706015,31
+354349019,K032y-1,K032y11,Hypocomplementaemic persistent glomerulonephritis NEC,197613008,303860019,32
+5093601000006114,^ESCTST509360,,Steroid-resistant minimal change glomerulonephritis,236400001,354366017,31
+3544341000006115,^ESCTDI354434,,Diffuse crescentic glomerulonephritis,64212008,106739010,32
+5093581000006116,^ESCTPR509358,,Proliferative crescentic glomerulonephritis,236398000,3029375014,32
+7724991000006115,^ESCTRE772499,,Recurrent hematuria co-occurrent and due to diffuse membranous glomerulonephritis,714821006,3300543012,32
+303820015,K00yz,K00yz00,Other acute glomerulonephritis NOS,19351000,32619017,32
+303864011,K02y,K02y.00,Other chronic glomerulonephritis,20917003,35171019,32
+303816019,K00y0,K00y000,Acute glomerulonephritis in diseases EC,197582001,303816019,32
+303825013,K010,K010.00,Nephrotic syndrome with proliferative glomerulonephritis,197589005,303825013,32
+354352010,K0A8,K0A8.00,Rapidly progressive glomerulonephritis,236392004,354352010,32
+8118521000006111,^ESCTHE811852,,Hereditary diffuse membranous glomerulonephritis,367541000119102,3012629012,31
+12107571000006119,^ESCT1210757,,Glomerulonephritis co-occurrent and due to vasculitis,90971000119103,3647365017,31
+8120541000006114,^ESCTNE812054,,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,368921000119102,3289846017,31
+7827621000006115,^ESCTME782762,,Membranous glomerulonephritis caused by drug,722120008,3330787018,31
+3691791000006111,^ESCTSY369179,,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class I",73286009,2621151014,31
+5093901000006116,^ESCTMG509390,,MGN stage IV - Membranous glomerulonephritis stage IV,236416004,354394013,31
+165061000006114,K0A13,K0A1300,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197693009,303981015,32
+458451000006115,K0A02,K0A0200,"Acute nephritic syndrome, diffuse membranous glomerulonephritis",197683002,303971019,32
+553181000006118,K0A33,K0A3300,"Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",197613008,303861015,32
+553201000006117,K0A32,K0A3200,"Chronic nephritic syndrome, diffuse membranous glomerulonephritis",77182004,1234074010,32
+677481000006113,K018,K018.00,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",197597003,303836018,32
+303832016,K014,K014.00,"Nephrotic syndrome, minor glomerular abnormality",197593004,303832016,32
+303844018,K01x,K01x.00,Nephrotic syndrome in diseases EC,197603000,303844018,32
+303845017,K01x0,K01x000,Nephrotic syndrome in amyloidosis,197604006,303845017,32
+303846016,K01x1,K01x100,Nephrotic syndrome in diabetes mellitus,197605007,303846016,32
+303848015,K01x2,K01x200,Nephrotic syndrome in malaria,197606008,303848015,32
+303849011,K01x3,K01x300,Nephrotic syndrome in polyarteritis nodosa,197607004,303849011,32
+354340015,K01w2,K01w200,Congenital nephrotic syndrome with focal glomerulosclerosis,236384008,354340015,32
+304056012,K0y,K0y..00,"Other specified nephritis, nephrosis or nephrotic syndrome",90708001,150315015,32
+304058013,K0z,K0z..00,"Nephritis, nephrosis and nephrotic syndrome NOS",90708001,150315015,32
+3289691000006118,^ESCTFA328969,,Familial nephrotic syndrome,48796009,81308013,32
+3347091000006118,^ESCTNS334709,,NS - Nephrotic syndrome,52254009,1231098019,32
+5093331000006111,^ESCTST509333,,Steroid-responsive nephrotic syndrome,236380004,354332014,32
+4788371000006112,^ESCTCN478837,,CNF - Finnish congenital nephrotic syndrome,197601003,303841014,32
+7958101000006113,^ESCTCO795810,,"Congenital ILNEB (interstitial lung disease, nephrotic syndrome, epidermolysis bullosa) syndrome",733453005,3499460010,31
+7768141000006110,^ESCTFA776814,,Familial idiopathic steroid-resistant nephrotic syndrome,718141008,3311280016,31
+8022431000006111,^ESCTNE802243,,Nephrotic syndrome due to type 1 diabetes mellitus,71721000119101,3013474017,31
+7598001000006110,^ESCTCH759800,,Childhood nephrotic syndrome,705065000,3022950016,31
+8091151000006111,^ESCTNE809115,,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,295111000119108,3320186012,31
+8027251000006115,^ESCTHI802725,,History of nephrotic syndrome,90171000119101,3040364010,31
+7958111000006111,^ESCTCO795811,,"Congenital nephrotic syndrome, epidermolysis bullosa, pulmonary disease syndrome",733453005,3499462019,31
+7761921000006113,^ESCTMU776192,,Multi-drug resistant nephrotic syndrome,717760006,3310187016,31
+3222421000006116,^ESCTMC322242,,MCNS - Minimal change nephrotic syndrome,44785005,1230136011,32
+5093451000006111,^ESCTWI509345,,Wilms' tumor and nephrotic syndrome with pseudohermaphroditism,236385009,354344012,32
+81307015,K01w,K01w.00,Congenital nephrotic syndrome,48796009,81307015,32
+7830451000006112,^ESCTCO783045,,Congenital nephrotic syndrome due to diffuse mesangial sclerosis,722369003,3331712011,31
+303853013,K01xz,K01xz00,Nephrotic syndrome associated with another disorder,197603000,2575708013,32
+7707941000006112,^ESCTNE770794,,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection,713695001,3297386012,31
+7375401000006117,^ESCTST737540,,Steroid resistant nephrotic syndrome of childhood,449820008,2912543015,31
+8022381000006115,^ESCTNE802238,,Nephrotic syndrome due to type 2 diabetes mellitus,71441000119104,3013377011,31
+5093381000006112,^ESCTST509338,,Steroid-dependent nephrotic syndrome,236382007,354337015,31
+4788421000006117,^ESCTNE478842,,Nephrotic syndrome due to diabetes mellitus,197605007,3013381011,32
+7827581000006115,^ESCTCO782758,,Congenital nephrotic syndrome (CNS) due to congenital infection,722118005,3331400011,31
+5093361000006119,^ESCTST509336,,Steroid-unresponsive nephrotic syndrome,236381000,354334010,31
+5093351000006116,^ESCTST509335,,Steroid-resistant nephrotic syndrome,236381000,354336012,31
+7830461000006114,^ESCTCO783046,,Congenital nephrotic syndrome (CNS) due to diffuse mesangial sclerosis,722369003,3331713018,31
+5093341000006118,^ESCTSS509334,,SSNS - Steroid-sensitive nephrotic syndrome,236380004,354333016,32
+3222381000006114,^ESCTID322238,,Idiopathic nephrotic syndrome,44785005,1230132013,32
+703481000006116,K01w0-1,K01w011,Microcystic type congenital nephrotic syndrome,197601003,303840010,32
+303854019,K01y,K01y.00,Nephrotic syndrome with other pathological kidney lesions,52254009,86957016,32
+303855018,K01z,K01z.00,Nephrotic syndrome NOS,52254009,86957016,32
+303806010,K0,K0...00,"Nephritis, nephrosis and nephrotic syndrome",197577008,303806010,32
+354341016,K01w1-1,K01w111,Nephrotic syndrome with pseudohermaphroditism,236385009,354341016,32
+86957016,K01,K01..00,Nephrotic syndrome,52254009,86957016,32
+127091000006118,K013-2,K013.12,Steroid-sensitive nephrotic syndrome,236380004,354331019,32
+7827571000006118,^ESCTCO782757,,Congenital nephrotic syndrome due to congenital infection,722118005,3331399016,31
+7303101000006118,^ESCTST730310,,Steroid sensitive nephrotic syndrome of childhood,445119005,2871021017,31
+710221000006113,K01w0,K01w000,Finnish congenital nephrotic syndrome,197601003,303840010,32
+1847541000006113,K01w1-2,K01w112,Wilms' tumour and nephrotic syndrome with pseudohermaphroditism,236385009,354342011,32
+6241721000006111,^ESCTNE624172,,Nephrotic syndrome secondary to systemic disease,363234001,482375011,31
+12717101000006112,^ESCT1271710,,"Nephritis, nephrosis and nephrotic syndrome",197577008,303806010,32
+3222371000006111,^ESCTMI322237,,Minimal change nephrotic syndrome,44785005,1230131018,32
+303833014,K015,K015.00,"Nephrotic syndrome, focal and segmental glomerular lesions",197594005,303833014,32
+7815201000006111,^ESCTMI781520,,"Microcephaly, hiatus hernia, nephrotic syndrome",721297008,3326232019,31
+5093391000006110,^ESCTSD509339,,SDNS - Steroid-dependent nephrotic syndrome,236382007,354338013,31
+7958091000006119,^ESCTCO795809,,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome",733453005,3499459017,31
+7757741000006117,^ESCTSP775774,,Sporadic idiopathic steroid-resistant nephrotic syndrome,717191005,3308646014,31
+5093371000006114,^ESCTSR509337,,SRNS - Steroid-resistant nephrotic syndrome,236381000,354335011,31
+677561000006119,K01x4,K01x400,Nephrotic syndrome in systemic lupus erythematosus,68815009,114310015,32
+303843012,K01wz,K01wz00,Congenital nephrotic syndrome NOS,48796009,81307015,32
+303838017,K01A,K01A.00,"Nephrotic syndrome, dense deposit disease",197599000,303838017,32
+61206018,K101,K101.00,Acute pyelonephritis,36689008,61206018,32
+105227013,K100,K100.00,Chronic pyelonephritis,63302006,105227013,32
+114310015,K01x4-1,K01x411,Lupus nephritis,68815009,114310015,32
+303817011,K00y1,K00y100,Acute exudative nephritis,197583006,303817011,32
+304060010,K1000,K100000,Chronic pyelonephritis without medullary necrosis,197760006,304060010,32
+354323012,K1014,K101400,Emphysematous pyelonephritis,236373001,354323012,32
+354543017,K00y4,K00y400,Acute radiation nephritis,236524006,354543017,32
+1225987015,K08y5-3,K08y513,Acute tubulo-interstitial nephritis,28637003,1225987015,32
+303874014,K030,K030.00,Proliferative nephritis unspecified,52845002,87940013,32
+303906011,K03yz,K03yz00,Other nephritis and nephrosis NOS,90708001,150315015,32
+396707019,K03-1,K03..11,Nephritis and nephropathy unspecified,52845002,87940013,32
+677941000006114,K02-1,K02..11,Nephritis - chronic,197707007,304004016,32
+821481000006114,K0A57,K0A5700,"Hereditary nephropathy,NEC,difus crescentic glomnephritis",236526008,354545012,32
+821711000006113,K0A52,K0A5200,"Hereditry nephropathy NEC,difus membran glomerulnephritis",236526008,354545012,32
+3489801000006110,^ESCTCI348980,,CIN - Chronic interstitial nephritis,60926001,1232151010,32
+7085691000006115,^ESCTTU708569,,Tubulo-interstitial nephritis,428255004,2694182017,32
+3489751000006115,^ESCTCH348975,,Chronic interstitial nephritis,60926001,101225013,32
+3125951000006110,^ESCTXG312595,,XGP - Xanthogranulomatous pyelonephritis,38898003,1229472012,32
+3319131000006115,^ESCTAN331913,,Anti-GBM nephritis with pulmonary haemorrhage,50581000,495717016,32
+3319091000006117,^ESCTAN331909,,Anti-GBM nephritis with pulmonary hemorrhage,50581000,84270015,32
+6621291000006119,^ESCTHE662129,,Hereditary nephritis,399340005,1778791010,32
+304083013,K10y,K10y.00,Pyelonephritis and pyonephrosis unspecified,129128006,207841011,32
+2630841000006116,^ESCTFO263084,,Focal embolic nephritis syndrome,8199003,14529014,31
+5094341000006115,^ESCTCH509434,,Chronic drug-induced tubulointerstitial nephritis,236452000,354440016,31
+7831551000006118,^ESCTDY783155,,Dyschondrosteosis and nephritis syndrome,722433005,3332050010,31
+2771691000006114,^ESCTMU277169,,Mumps nephritis,17121006,28957017,31
+7978191000006116,^ESCTOB797819,,Obstructive pyelonephritis,4181000119109,3013584019,31
+2573601000006117,^ESCTLU257360,,Lupus nephritis - WHO Class II,4676006,1230395019,31
+7230511000006117,^ESCTDR723051,,Drug-induced interstitial nephritis,439990003,3013069019,5
+4353721000006111,^ESCTSU435372,,Subacute pyelonephritis,123611003,192100012,31
+8001741000006111,^ESCTPR800174,,Primary tubulointerstitial nephritis,15911000119103,3011100013,31
+12042631000006118,^ESCT1204263,,"Deafness, nephritis, anorectal malformation syndrome",766249007,3661245011,31
+2765841000006111,^ESCTAC276584,,Acute tubulointerstitial nephritis associated with systemic infection,16751003,28360018,31
+2946331000006119,^ESCTAC294633,,Acute viral tubulointerstitial nephritis,27810000,46545015,31
+4075211000006111,^ESCTHE407521,,Hemorrhagic nephroso-nephritis,102455002,165690016,31
+8016841000006112,^ESCTBA801684,,Bacterial nephritis,42231000009109,3330935013,31
+3835261000006113,^ESCTID383526,,Idiopathic chronic interstitial nephritis,82112005,136200016,31
+4355471000006118,^ESCTNE435547,,Nephrotoxic serum nephritis,123753008,192242018,31
+6927841000006118,^ESCTTI692784,,TINU - Tubulointerstitial nephritis with uveitis syndrome,418839003,2580217017,31
+2856271000006115,^ESCTAC285627,,Acute bacterial tubulointerstitial nephritis,22352007,37531019,31
+7953511000006111,^ESCTSP795351,,"Spastic paraplegia, nephritis, deafness syndrome",733089005,3498726012,31
+4075381000006114,^ESCTHN407538,,HNN - Hemorrhagic nephrosonephritis,102455002,249906018,31
+3086691000006118,^ESCTLU308669,,Lupus nephritis - WHO Class IV,36402006,1228645015,31
+4075371000006111,^ESCTHE407537,,Hemorrhagic nephrosonephritis,102455002,249905019,31
+4355501000006113,^ESCTAC435550,,Acute focal pyelonephritis,123754002,1220672012,31
+4355491000006117,^ESCTFO435549,,Focal pyelonephritis,123754002,192243011,31
+8018011000006118,^ESCTSE801801,,Secondary tubulointerstitial nephritis,50411000119108,3013514013,31
+5094371000006111,^ESCTCH509437,,Chronic drug induced tubulointerstitial nephritis,236452000,3036898018,31
+2675171000006110,^ESCTLU267517,,Lupus nephritis - WHO Class VI,11013005,1219554016,31
+5477281000006110,^ESCTIN547728,,IN - Interstitial nephritis,264536006,393008011,31
+3691781000006113,^ESCTLU369178,,Lupus nephritis - WHO Class I,73286009,1233609012,31
+6927831000006111,^ESCTTU692783,,Tubulointerstitial nephritis with uveitis syndrome,418839003,2577701015,31
+3265171000006111,^ESCTID326517,,Idiopathic acute interstitial nephritis,47330001,78912011,32
+3589301000006114,^ESCTAC358930,,Acute infectious tubulointerstitial nephritis,66993009,111280012,32
+4789331000006115,^ESCTPY478933,,Pyelonephritis associated with another disorder,197782004,2575730014,32
+304067013,K100z,K100z00,Chronic pyelonephritis NOS,63302006,105227013,32
+249896014,A786,A786.00,Haemorrhagic nephrosonephritis,364756009,487930011,32
+886621000006112,K03-99,K03..99,Nephritis NOS,52845002,886621000006112,32
+354324018,K105,K105.00,Chronic infective interstitial nephritis,236374007,354324018,32
+354514013,D3101,D310100,Henoch-Schonlein nephritis,236504007,354514013,32
+304069011,K1011,K101100,Acute pyelonephritis with medullary necrosis,197769007,304069011,32
+65241012,K104,K104.00,Xanthogranulomatous pyelonephritis,38898003,65241012,32
+108231015,A1602,A160200,Tuberculous pyelonephritis,44323002,3320164011,32
+1225986012,K08y5-2,K08y512,ATIN - Acute tubulo-interstitial nephritis,28637003,1225986012,32
+1232869016,K08y7,K08y700,Acute infective interstitial nephritis,66993009,1232869016,32
+7230521000006113,^ESCTDR723052,,Drug-induced tubulointerstitial nephritis,439990003,2794434018,5
+4075281000006116,^ESCTHA407528,,Haemorrhagic nephrosonephritis,102455002,249896014,31
+5095401000006113,^ESCTCH509540,,Chronic toxic interstitial nephritis,236523000,354542010,31
+677951000006111,K03,K03..00,Nephritis,52845002,87940013,32
+5094441000006111,^ESCTGR509444,,Granulomatous interstitial nephritis,236458001,354446010,31
+3343601000006112,^ESCTLU334360,,Lupus nephritis - WHO Class V,52042003,1231073015,31
+8016481000006115,^ESCTSE801648,,Secondary chronic nephritis,40391000119106,3013232012,31
+5093971000006110,^ESCTAL509397,,Alport syndrome-like hereditary nephritis,236420000,354402019,31
+3030001000006112,^ESCTCH303000,,Chronic arteriosclerotic nephritis,32916005,54941010,31
+3521681000006118,^ESCTAN352168,,Anti-glomerular basement membrane tubulointerstitial nephritis,62853008,2693975011,31
+3515824016,^ESCT1170449,,Pyelonephritis in pregnancy,16271000119108,3515824016,31
+4355481000006115,^ESCTMA435548,,Masugi nephritis,123753008,203422019,31
+5587421000006111,^ESCTCO558742,,Congenital nephritis,276585000,412798014,31
+886611000006116,K0-99,K0...99,Nephritis/nephrosis/neph syndr,197577008,886611000006116,32
+83331000006110,K03T,K03T.00,"Tubulo-interstit nephritis, not specif as acute or chron",428255004,2694843016,32
+303894017,K033,K033.00,Rapidly progressive nephritis unspecified,236392004,354352010,32
+304071011,K101z,K101z00,Acute pyelonephritis NOS,36689008,61206018,32
+304090015,K10yz,K10yz00,Unspecified pyelonephritis NOS,45816000,76408015,32
+354441017,K0C34,K0C3400,Chronic interstitial nephritis due to heavy metals,236453005,354441017,15
+354544011,K02y4,K02y400,Chronic radiation nephritis,236525007,354544011,32
+39884018,K1006,K100600,Calculous pyelonephritis,23754003,39884018,32
+47940012,K08y5,K08y500,Acute interstitial nephritis,28637003,47940012,32
+4353731000006114,^ESCTHE435373,,Healed pyelonephritis,123612005,192101011,31
+3865371000006116,^ESCTFA386537,,Familial interstitial nephritis,83923004,139165018,31
+7021571000006112,^ESCTID702157,,Idiopathic interstitial nephritis,424188009,2645804011,31
+2756081000006114,^ESCTAR275608,,Arteriolar nephritis,16147005,27334016,31
+3241731000006119,^ESCTIM324173,,Immunologic mediated tubulointerstitial nephritis,45927004,2692951016,31
+3744661000006111,^ESCTLU374466,,Lupus nephritis - WHO Class III,76521009,1233997017,31
+5094391000006112,^ESCTCH509439,,Chronic interstitial nephritis caused by heavy metals,236453005,3293130015,15
+4789351000006110,^ESCTSE478935,,Secondary pyelonephritis,197782004,3035467019,32
+3125961000006112,^ESCTXG312596,,XGPN - Xanthogranulomatous pyelonephritis,38898003,1229473019,32
+3319061000006113,^ESCTLU331906,,Lung purpura with nephritis syndrome,50581000,84266011,32
+3489781000006111,^ESCTCT348978,,CTIN - Chronic tubulo-interstitial nephritis,60926001,1232149011,32
+3489791000006114,^ESCTCH348979,,Chronic tubulo-interstitial nephritis,60926001,1232150011,32
+303876011,K032,K032.00,Membranoproliferative nephritis unspecified,52845002,87940013,32
+305172012,Kyu10,Kyu1000,[X]Other chronic tubulo-interstitial nephritis,60926001,101225013,32
+303814016,K001,K001.00,Acute nephritis with lesions of necrotising glomerulitis,197580009,303814016,32
+303818018,K00y2,K00y200,Acute focal nephritis,197584000,303818018,32
+303819014,K00y3,K00y300,Acute diffuse nephritis,197585004,303819014,32
+304087014,K10y3,K10y300,Pyelonephritis in diseases EC,197782004,304087014,32
+354329011,K106,K106.00,Candida pyelonephritis,236378005,354329011,32
+13777018,K0F,K0F..00,Radiation nephritis,7725007,13777018,32
+61863019,K0000,K000000,Shunt nephritis,37085009,61863019,32
+4075291000006118,^ESCTHN407529,,HNN - Haemorrhagic nephrosonephritis,102455002,249897017,31
+4355511000006111,^ESCTDI435551,,Diffuse pyelonephritis,123755001,192244017,31
+6343161000006113,^ESCTAV634316,,Avian nephritis virus,370592000,1209323013,31
+5094361000006116,^ESCTCH509436,,Chronic drug-induced interstitial nephritis,236452000,354439018,31
+8467211000006116,^ESCTSA846721,,Salmonella pyelonephritis,1092371000119103,3023086012,31
+429641000006113,Kyu1E,Kyu1E00,Tubulointerstitial nephritis,428255004,2694843016,32
+303904014,K03y1,K03y100,Exudative nephritis,7011000119105,3013482017,32
+4195441000006110,^ESCTPE419544,,Perinephritis,111404004,178642011,31
+7230921000006119,^ESCTHE723092,,Heavy-metal-induced tubulointerstitial nephritis,440018001,2790941013,5
+3978851000006114,^ESCTSA397885,,Salt-losing nephritis,91003006,150798017,32
+4789231000006111,^ESCTNO478923,,Non-obstructive reflux-associated chronic pyelonephritis,197764002,304064018,32
+3091361000006112,^ESCTAP309136,,APN - Acute pyelonephritis,36689008,1228681017,32
+3091351000006110,^ESCTAC309135,,Acute PN - pyelonephritis,36689008,1228680016,32
+4789241000006118,^ESCTCH478924,,Chronic non-obstructive atrophic pyelonephritis,197764002,2535861016,32
+585761000006118,K1004,K100400,Nonobstructive reflux-associated chronic pyelonephritis,197764002,304064018,32
+303903015,K03y0,K03y000,Other nephritis and nephrosis in diseases EC,90708001,150315015,32
+150798017,K13yz-1,K13yz11,Salt-losing nephritis,91003006,150797010,32
+1230447010,K08y6,K08y600,Acute idiopathic interstitial nephritis,47330001,1230447010,32
+304061014,K1001,K100100,Chronic pyelonephritis with medullary necrosis,197761005,304061014,32
+4075201000006113,^ESCTHA407520,,Haemorrhagic nephroso-nephritis,102455002,165695014,31
+3029991000006113,^ESCTIN302999,,Interstitial arteriosclerotic nephritis,32916005,54940011,31
+7613791000006118,^ESCTFA761379,,Familial non-obstructive reflux-associated chronic pyelonephritis,707208009,3029209016,31
+7565541000006110,^ESCTAC756554,,Acute on chronic interstitial nephritis,702718005,3005825018,31
+4063841000006118,^ESCTMY406384,,Mycoplasmal pyelonephritis,95889002,158837019,31
+3981991000006110,^ESCTAC398199,,Acute fungal tubulointerstitial nephritis,91195006,151109015,31
+5477271000006112,^ESCTIN547727,,Interstitial nephritis,264536006,393007018,31
+7005451000006113,^ESCTRE700545,,Recurrent obstructive pyelonephritis,423322005,2645802010,31
+4788181000006113,^ESCTAC478818,,Acute nephritis with lesions of necrotizing glomerulitis,197580009,303813010,32
+3016861000006112,^ESCTAC301686,,Acute tubulointerstitial nephritis due to hypersensitivity to drugs,32093003,53632014,5
+3529461000006113,^ESCTCP352946,,CPN - Chronic pyelonephritis,63302006,1232450016,32
+5095121000006112,^ESCTHE509512,,Henoch-SchÃ¶nlein nephritis,236504007,2817685018,32
+3489771000006113,^ESCTCH348977,,Chronic tubulointerstitial nephritis,60926001,101230012,32
+303902013,K03y,K03y.00,Other nephritis and nephrosis unspecified,90708001,150315015,32
+304068015,K1010,K101000,Acute pyelonephritis without medullary necrosis,197768004,304068015,32
+354330018,K1005,K100500,Chronic obstructive pyelonephritis,236379002,354330018,32
+303905010,K03y2,K03y200,Interstitial nephritis,28689008,48036015,32
+304084019,K10y0,K10y000,Pyelonephritis,45816000,76408015,32
+43768016,K0B6,K0B6.00,Balkan nephropathy,26121002,43768016,32
+91216016,K08y0,K08y000,Hypokalaemic nephropathy,54879000,91216016,32
+110356018,C373L,C373L00,Amyloid nephropathy of Ostertag,66451004,110356018,32
+293394013,C341,C341.00,Gouty nephropathy,190829000,293394013,32
+354485015,K0y1,K0y1.00,Acquired magnesium-losing nephropathy,236481004,354485015,32
+354508018,K08yA-1,K08yA11,Clinical diabetic nephropathy,236500003,354508018,32
+354509014,K08yA,K08yA00,Proteinuric diabetic nephropathy,236500003,354509014,32
+354621016,SP08J-1,SP08J11,Chronic transplant nephropathy,236578006,354621016,32
+881481000006117,C104-99,C104.99,Diabetes + nephropathy,127013003,881481000006117,32
+1160091000000115,K13yB,K13yB00,Ischaemic nephropathy,710565001,3082872011,32
+1846681000006117,C3734-2,C373412,Amyloid nephropathy with deafness and urticaria,15123008,477144012,32
+293396010,C3410,C341000,Gouty nephropathy unspecified,190829000,293393019,32
+84371000006110,C108D-2,C108D12,Type 1 diabetes mellitus with nephropathy,421893009,2623054013,32
+280531000006119,C109C,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,420279001,3035432019,32
+678061000006111,K02-2,K02..12,Nephropathy - chronic,90708001,150322011,32
+821431000006113,K0A50,K0A5000,"Hereditary nephropathy NEC, minor glomerular abnormality",236526008,354545012,32
+821461000006116,K0A56,K0A5600,"Hereditary nephropathy, NEC, dense deposit disease",236526008,354545012,32
+821471000006111,K0A5X,K0A5X00,"Hereditary nephropathy, unspecif morphological changes",197679002,303967017,32
+913851000006119,C10ED-1,C10ED11,Type I diabetes mellitus with nephropathy,421893009,2623054013,32
+678091000006115,K0C2,K0C2.00,Nephropathy induced by unspec drug medicament or biol subs,236514003,354531018,5
+913831000006114,C10ED-2,C10ED12,Insulin dependent diabetes mellitus with nephropathy,127013003,301016,32
+3390511000006114,^ESCTHY339051,,Hypokalemic nephropathy,54879000,91212019,32
+7560481000006112,^ESCTHE756048,,"Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome",702428000,2995072011,32
+5096171000006118,^ESCTMI509617,,Mild chronic transplant nephropathy,236579003,354622011,32
+2739701000006112,^ESCTFA273970,,Familial amyloid nephropathy with urticaria AND deafness,15123008,25678018,32
+3119661000006114,^ESCTHY311966,,Hypertensive nephropathy,38481006,64285018,32
+4789161000006114,^ESCTNE478916,,Nephropathy due to heavy metals,197753000,3037323018,15
+4788621000006119,^ESCTBE478862,,Berger's immunoglobulin A or immunoglobulin G nephropathy,197632002,2968772014,32
+2961081000006117,^ESCTTU296108,,Tubulointerstitial nephropathy,28689008,48040012,32
+5096141000006114,^ESCTCH509614,,Chronic allograft nephropathy,236578006,354620015,32
+5093941000006119,^ESCTTH509394,,Thin basement membrane nephropathy,236418003,354398011,32
+4789251000006116,^ESCTNE478925,,Nephropathy associated with vesicoureteral reflux,197764002,2535862011,32
+355554015,L162-2,L162.12,Nephropathy NOS in pregnancy without hypertension,198609003,305277014,32
+5095031000006114,^ESCTMI509503,,Microalbuminuric diabetic nephropathy,236499007,354506019,31
+3526164014,^ESCT1167284,,Nephropathy following pre-eclampsia,736992003,3526164014,31
+7585791000006112,^ESCTNE758579,,Nephropathy caused by amphotericin,704055002,3290321018,31
+2922051000006113,^ESCTRA292205,,Radiographic contrast agent nephropathy,26367008,44161011,31
+3368391000006112,^ESCTCI336839,,Cis-platinum nephropathy,53556002,89047015,31
+7050771000006114,^ESCTAA705077,,AA amyloid nephropathy,425879009,2676046018,31
+7587781000006118,^ESCTNE758778,,Nephropathy caused by tacrolimus,704205002,3290329016,31
+7827041000006119,^ESCTAC782704,,Acquired obstructive nephropathy due to neurogenic bladder,722078002,3330491012,31
+3526166011,^ESCT1167285,,Nephropathy following eclampsia,736993008,3526166011,31
+3902211000006116,^ESCTOB390221,,Obstructive nephropathy,86249007,143030010,31
+7827101000006117,^ESCTOB782710,,Obstructive nephropathy due to prostatic hypertrophy,722082000,3330502013,31
+5094791000006111,^ESCTMA509479,,Magnesium-losing nephropathy,236479001,354483010,31
+7587721000006117,^ESCTNE758772,,Nephropathy induced by cyclosporine,704203009,3010286015,31
+8040301000006114,^ESCTLI804030,,Light chain nephropathy due to multiple myeloma,127911000119105,3286025014,31
+12016651000006117,^ESCT1201665,,Myoclonus nephropathy syndrome,764453009,3649894014,31
+3902041000006110,^ESCTHE390204,,Heavy metal nephropathy,86235003,143007016,31
+7587761000006111,^ESCTNE758776,,Nephropathy caused by lead,704204003,3290291012,31
+7587731000006119,^ESCTNE758773,,Nephropathy caused by ciclosporin,704203009,3290304010,31
+5663851000006115,^ESCTIM566385,,Immunoglobulin A nephropathy associated with liver disease,282364005,2969689018,31
+7824201000006118,^ESCTRE782420,,Renin associated familial juvenile hyperuricemic nephropathy,721840000,3326217014,31
+6342231000006116,^ESCTPR634223,,Protein-losing nephropathy,370494002,1209228019,31
+7092651000006115,^ESCTNE709265,,Nephropathy caused by heroin,428720002,3292964014,31
+7512421000006110,^ESCTNE751242,,Nephropathy due to acquired urinary tract obstruction,698757009,2981202014,31
+7827171000006111,^ESCTOB782717,,Obstructive nephropathy due to malignancy,722088001,3330630018,31
+7804861000006110,^ESCTAT780486,,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome",720519003,3321114010,31
+3256371000006114,^ESCTFA325637,,Familial juvenile gouty nephropathy,46785007,494634010,31
+3451421000006113,^ESCTAC345142,,Acute nephropathy,58574008,97336010,31
+5095231000006116,^ESCTMA509523,,Macroglobulinaemic nephropathy,236511006,354526015,31
+8102701000006113,^ESCTTU810270,,Tubulointerstitial nephropathy due to Sjogrens syndrome,320681000119102,3082609016,31
+5093821000006117,^ESCTC1509382,,C1q nephropathy,236412002,354387010,31
+7369481000006119,^ESCTKA736948,,Kappa light chain nephropathy,449408005,2901385013,31
+8464311000006117,^ESCTDI846431,,Diphtheria tubulointerstitial nephropathy,1086071000119103,3028678014,31
+7303891000006115,^ESCTOV730389,,Overt diabetic nephropathy,445170001,2871572016,31
+7824211000006115,^ESCTRE782421,,Renin associated familial juvenile hyperuricaemic nephropathy,721840000,3326218016,31
+7824191000006116,^ESCTFA782419,,Familial juvenile hyperuricaemic nephropathy type 2,721840000,3326216017,31
+5093811000006113,^ESCTIM509381,,Immunoglobulin M nephropathy,236411009,2969448012,31
+292496015,C104z,C104z00,Diabetes mellitus with nephropathy NOS,127013003,301016,32
+354320010,K03-2,K03..12,Nephropathy,90708001,150322011,32
+399791000006112,Kyu14,Kyu1400,[X]Nephropathy induced by other drugs+biological substances,28689008,48036015,32
+678081000006118,K0C1,K0C1.00,Nephropathy induced by other drugs meds and biologl substncs,90708001,150315015,32
+3618691000006114,^ESCTPR361869,,Primary immunoglobulin A nephropathy,68779003,2969823016,31
+7369501000006112,^ESCTLA736950,,Lambda light chain nephropathy,449409002,2901387017,31
+4075331000006113,^ESCTHA407533,,Hantaan virus nephropathy,102455002,249901011,31
+7587791000006115,^ESCTNE758779,,Nephropathy induced by aminoglycoside,704206001,3011856014,31
+11878001000006119,^ESCT1187800,,Amyloid A nephropathy,425879009,3513866017,31
+3256381000006112,^ESCTFA325638,,Familial juvenile hyperuricaemia nephropathy,46785007,494635011,31
+7585781000006114,^ESCTNE758578,,Nephropathy induced by amphotericin,704055002,3010638016,31
+3256351000006116,^ESCTFA325635,,Familial gout nephropathy,46785007,77988017,31
+7587801000006119,^ESCTNE758780,,Nephropathy caused by aminoglycoside,704206001,3290355015,31
+7827181000006114,^ESCTOB782718,,Obstructive nephropathy due to bladder cancer,722089009,3330638013,31
+7827611000006111,^ESCTDR782761,,Drug-induced membranous nephropathy,722120008,3330781017,31
+4788611000006110,^ESCTBE478861,,Berger IgA or IgG nephropathy,197632002,2842506014,32
+6261871000006110,^ESCTPU626187,,Puumala virus nephropathy,364756009,487930011,32
+4789271000006114,^ESCTRE478927,,Reflux nephropathy,197764002,2535864012,32
+7674021000006111,^ESCTNE767402,,Nephropathy due to ischemia,710565001,3044841012,32
+3222391000006112,^ESCTMI322239,,Minimal change nephropathy,44785005,1230133015,32
+914271000006114,C10FC-1,C10FC11,Type II diabetes mellitus with nephropathy,420279001,3013392012,32
+84551000006113,C109C-2,C109C12,Type 2 diabetes mellitus with nephropathy,420279001,3035432019,32
+293400010,C341z,C341z00,Gouty nephropathy NOS,190829000,293393019,32
+2214231000000116,C3725-1,C372511,Acute uric acid nephropathy,236496000,2214231000000116,32
+354379014,K0A28,K0A2800,IgA nephropathy,236407003,354379014,32
+354501012,C3724,C372400,Urate nephropathy,236495001,354501012,32
+354503010,C3725,C372500,Acute urate nephropathy,236496000,354503010,32
+354536011,K0C32,K0C3200,Acute mercury nephropathy,236518000,354536011,15
+7573791000006119,^ESCTAU757379,,Autosomal dominant progressive nephropathy with hypertension,703310005,3008353010,31
+7827081000006113,^ESCTOB782708,,Obstructive nephropathy due to prostate cancer,722081007,3330499014,31
+3043341000006115,^ESCTHY304334,,Hypercalcemic nephropathy,33763006,56369013,31
+7827051000006117,^ESCTOB782705,,Obstructive nephropathy due to neurogenic bladder,722078002,3330493010,31
+429141000006118,Kyu15,Kyu1500,"[X]Toxic nephropathy, not elsewhere classified",236514003,354531018,5
+4075341000006115,^ESCTMU407534,,Muroid virus nephropathy,102455002,249902016,31
+8102691000006113,^ESCTTU810269,,Tubulointerstitial nephropathy due to SjÃ¶gren's syndrome,320681000119102,3082608012,31
+2682791000006113,^ESCTID268279,,Idiopathic granulomatous interstitial nephropathy,11480007,19857012,31
+12036181000006110,^ESCT1203618,,Reflux nephropathy of right kidney due to vesicoureteral reflux,765780006,3659719018,31
+7830671000006116,^ESCTCO783067,,"Congenital cataract, nephropathy, encephalopathy syndrome",722381004,3331766015,31
+8241691000006114,^ESCTHO824169,,H/O: diabetic nephropathy,774521000000103,1730211000000119,31
+3043331000006113,^ESCTHY304333,,Hypercalcaemic nephropathy,33763006,485627019,31
+7587751000006114,^ESCTNE758775,,Nephropathy induced by lead,704204003,3012076019,31
+5095241000006114,^ESCTMA509524,,Macroglobulinemic nephropathy,236511006,354525016,31
+7871051000006110,^ESCTCO787105,,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunisation,725592009,3444194016,31
+5094801000006112,^ESCTIN509480,,Inherited magnesium-losing nephropathy,236480003,354484016,31
+3019781000006117,^ESCTMY301978,,Myeloma cast nephropathy,32278006,1227929018,31
+5096191000006117,^ESCTMO509619,,Moderate chronic transplant nephropathy,236580000,354625013,32
+3978841000006112,^ESCTSA397884,,Salt-losing nephropathy,91003006,150797010,32
+3222431000006118,^ESCTMC322243,,MCN - Minimal change nephropathy,44785005,1230137019,32
+5093741000006117,^ESCTIM509374,,Immunoglobulin A nephropathy,236407003,2969517019,32
+821441000006115,K0A51,K0A5100,"Hereditary nephropathy NEC,focal+segmnt glomerular lesion",236526008,354545012,32
+388791000006118,Kyu0F,Kyu0F00,"[X]Hereditary nephropathy, unspecif morphological changes",197679002,303967017,32
+84741000006118,C108D-1,C108D11,Type I diabetes mellitus with nephropathy,421893009,2623054013,32
+1757951000006119,EMISNQIS6,,Ischaemic nephropathy,1757951000006103,1757951000006119,32
+8025741000006116,^ESCTUN802574,,Unilateral reflux nephropathy due to vesicoureteral reflux,86201000119100,3013616019,31
+303884010,K0326,K032600,Berger's IgA or IgG nephropathy,197632002,303884010,32
+7704951000006118,^ESCTNE770495,,Nephropathy co-occurrent with human immunodeficiency virus infection,713504001,3289576017,31
+7827111000006119,^ESCTOB782711,,Obstructive nephropathy due to benign prostatic hyperplasia,722082000,3330508012,31
+8091131000006116,^ESCTNE809113,,Nephropathy co-occurrent and due to systemic lupus erythematosus,295101000119105,3082487012,31
+3097031000006111,^ESCTGR309703,,Granulomatous sarcoid nephropathy,37061001,61828012,31
+914261000006119,C10FC,C10FC00,Diabetes type 2 with nephropathy,420279001,3035432019,32
+3618661000006118,^ESCTPR361866,,Primary IgA nephropathy,68779003,114235012,31
+7851531000006114,^ESCTNE785153,,"Nephropathy, deafness, hyperparathyroidism syndrome",724093004,3481738013,31
+7871061000006112,^ESCTCO787106,,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization,725592009,3444193010,31
+7587741000006112,^ESCTNE758774,,Nephropathy caused by cyclosporine,704203009,3290368011,31
+7303881000006118,^ESCTMA730388,,Macroalbuminuric diabetic nephropathy,445170001,2871571011,31
+7827601000006113,^ESCTID782760,,Idiopathic membranous nephropathy,722119002,3330959015,31
+5093691000006119,^ESCTAC509369,,Acquired immune deficiency syndrome-related nephropathy,236406007,354375015,31
+7587711000006113,^ESCTNE758771,,Nephropathy induced by ciclosporin,704203009,3012170010,31
+7307591000006114,^ESCTFA730759,,Familial immunoglobulin A nephropathy,445404003,2872205016,31
+7829591000006110,^ESCTCH782959,,Charcot-Marie-Tooth disease with nephropathy syndrome,722294004,3331480014,31
+7812701000006114,^ESCTHE781270,,"Hereditary endotheliopathy, retinopathy, nephropathy, stroke syndrome",721142006,3323688010,31
+5095041000006116,^ESCTIN509504,,Incipient diabetic nephropathy,236499007,354507011,31
+3721941000006119,^ESCTNE372194,,Nephropathy in pregnancy AND/OR puerperium without hypertension,75150001,124820016,31
+7824181000006119,^ESCTFA782418,,Familial juvenile hyperuricemic nephropathy type 2,721840000,3326215018,31
+7674011000006115,^ESCTNE767401,,Nephropathy due to ischaemia,710565001,3044790019,32
+2568731000006118,^ESCTLI256873,,Lithium nephropathy,4390004,7689013,5
+5093721000006112,^ESCTIG509372,,IgAN - IgA nephropathy,236407003,354378018,32
+3288111000006112,^ESCTAM328811,,Amyloid nephropathy,48713002,81162018,32
+4789171000006119,^ESCTNE478917,,Nephropathy caused by heavy metals,197753000,3290279015,15
+4760071000006110,^ESCTCH476007,,Chronic gouty nephropathy,190829000,293393019,32
+304026015,K0A5,K0A5.00,Hereditary nephropathy not elsewhere classified,236526008,354545012,32
+356099014,ESCTPH1,,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction",237612000,356099014,32
+2149391000000115,K0C33,K0C3300,Acute nephropathy induced by heavy metals,826271000000106,2149391000000115,15
+286285014,A1600,A160000,Tuberculous nephropathy,44323002,3320160019,32
+287143014,A8441,A844100,Plasmodium malariae malaria with nephropathy,186796004,287143014,32
+354442012,K0C35,K0C3500,Chronic lead nephropathy,236454004,354442012,15
+354444013,K0C37,K0C3700,Chronic cadmium nephropathy,236456002,354444013,15
+354534014,K0C31,K0C3100,Acute lead nephropathy,236516001,354534014,15
+5338311000006119,^ESCTCA533831,,Carpal-tarsal osteolysis with nephropathy,254149007,378326012,31
+8040291000006113,^ESCTLI804029,,Light chain nephropathy due to plasma cell dyscrasia,127901000119107,3011842012,31
+3392781000006113,^ESCTLI339278,,Light chain nephropathy,55006001,91446015,31
+8467531000006113,^ESCTTO846753,,Toxoplasma tubulointerstitial nephropathy,1092831000119109,3023199013,31
+7307601000006118,^ESCTFA730760,,Familial immunoglobulin A (IgA) nephropathy,445404003,2872204017,31
+7828111000006115,^ESCTIN782811,,Infection-associated membranous nephropathy,722168002,3330778010,31
+304054010,K0C4,K0C4.00,Toxic nephropathy,236514003,354531018,5
+1948021000006115,GB,GB...00,"Hereditary angiopathy with nephropathy, aneurysms and muscle cramps syndrome",702428000,2419421000000115,32
+5663841000006117,^ESCTIG566384,,IgA nephropathy associated with liver disease,282364005,420661014,31
+7092641000006117,^ESCTNE709264,,Nephropathy due to heroin,428720002,2694267018,31
+4075321000006110,^ESCTMV407532,,MVN - Muroid virus nephropathy,102455002,249900012,31
+7710951000006112,^ESCTBK771095,,BK virus nephropathy,713886006,3298011015,31
+5093791000006114,^ESCTIG509379,,IgM nephropathy,236411009,354385019,31
+7762081000006115,^ESCTAR776208,,Aristolochic acid nephropathy,717770008,3310208019,31
+7061581000006117,^ESCTAM706158,,Amyloid light-chain nephropathy,426598005,3311994011,31
+2720231000006118,^ESCTME272023,,Methyl lomustine nephropathy,13889008,2914577012,31
+7560471000006114,^ESCTHA756047,,"HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps",702428000,2995590017,32
+4760091000006111,^ESCTCH476009,,Chronic urate nephropathy,190829000,293395014,32
+4789261000006119,^ESCTRN478926,,RN - Reflux nephropathy,197764002,2535863018,32
+23676016,K0G,K0G..00,Sickle cell nephropathy,13886001,23676016,32
+98667016,K0C0,K0C0.00,Analgesic nephropathy,59400006,98667016,5
+354535010,K0C30,K0C3000,Acute cadmium nephropathy,236517005,354535010,15
+5095371000006110,^ESCTPE509537,,Penicillamine nephropathy,236521003,354539016,31
+7827151000006118,^ESCTMA782715,,Malignancy-associated membranous nephropathy,722086002,3330535015,31
+5095361000006115,^ESCTGO509536,,Gold nephropathy,236520002,354538012,31
+7827091000006111,^ESCTOB782709,,Obstructive nephropathy due to carcinoma of prostate,722081007,3330514017,31
+8102681000006110,^ESCTTU810268,,Tubulointerstitial nephropathy due to Sjogren syndrome,320681000119102,3082607019,31
+12036171000006112,^ESCT1203617,,Reflux nephropathy of left kidney due to vesicoureteral reflux,765779008,3659717016,31
+5093961000006115,^ESCTFA509396,,Familial nephropathy,236419006,354401014,31
+3633651000006119,^ESCTOX363365,,Oxalate nephropathy,69718008,115815011,31
+3256391000006110,^ESCTFA325639,,Familial juvenile hyperuricemia nephropathy,46785007,494636012,31
+7613801000006117,^ESCTFA761380,,Familial reflux nephropathy,707208009,3029060014,31
+7587771000006116,^ESCTNE758777,,Nephropathy induced by tacrolimus,704205002,3011072019,31
+7710971000006119,^ESCTNE771097,,Nephropathy caused by BK polyomavirus,713886006,3298010019,31
+5093701000006119,^ESCTAI509370,,AIDS - Acquired immune deficiency synd-related nephropathy,236406007,354377011,31
+8118591000006113,^ESCTHE811859,,Hereditary nephropathy,367591000119105,3012627014,31
+7061561000006110,^ESCTAL706156,,AL amyloid nephropathy,426598005,2676047010,31
+2720221000006116,^ESCTME272022,,Methyl CCNU nephropathy,13889008,23680014,31
+7674031000006114,^ESCTIS767403,,Ischemic nephropathy,710565001,3082908010,32
+5096211000006116,^ESCTSE509621,,Severe chronic transplant nephropathy,236581001,354626014,32
+771391000006117,C108D,C108D00,Insulin dependent diabetes mellitus with nephropathy,127013003,301016,32
+1920821000006112,EMISNQHE101,,"Hered angiopathy with nephropathy, aneurysms + muscle cramp synd",1920821000006108,1920821000006112,32
+304053016,K0C3,K0C3.00,Nephropathy induced by heavy metals,197753000,304053016,15
+205225016,C104-1,C104.11,Diabetic nephropathy,127013003,205225016,32
+354443019,K0C38,K0C3800,Saturnine nephropathy,236455003,354443019,15
+354445014,K0C36,K0C3600,Chronic mercury nephropathy,236457006,354445014,15
+354502017,C3724-1,C372411,Uric acid nephropathy,236495001,354502017,32
+7812721000006116,^ESCTHE781272,,"HERNS (hereditary endotheliopathy, retinopathy, nephropathy, stroke) syndrome",721142006,3323690011,31
+5094101000006115,^ESCTPI509410,,Pigment nephropathy,236430009,354414010,31

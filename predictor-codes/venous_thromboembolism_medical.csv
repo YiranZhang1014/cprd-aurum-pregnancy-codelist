@@ -1,0 +1,327 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+216205019,G801C,G801C00,Deep vein thrombosis of leg related to air travel,134399007,216205019,32
+307740016,L4131,L413100,Antenatal deep vein thrombosis - delivered,200232006,307740016,32
+2534187010,G801E,G801E00,Deep vein thrombosis of leg related to intravenous drug use,413956008,2534187010,32
+1786921000006116,EMISNQRE297,,Recurrent deep vein thrombosis,1786921000006100,1786921000006116,32
+3414351000006118,^ESCTPO341435,,Postpartum deep vein thrombosis,56272000,93578019,32
+8361011000006114,^ESCTUN836101,,Unprovoked DVT (deep vein thrombosis),978421000000101,2518391000000114,32
+4403261000006113,^ESCTDV440326,,DVT - Deep vein thrombosis,128053003,2162148012,32
+307739018,L4130,L413000,Antenatal deep vein thrombosis unspecified,49956009,83207014,32
+307742012,L413z,L413z00,Antenatal deep vein thrombosis NOS,49956009,83207014,32
+12107671000006115,^ESCT1210767,,Chronic deep vein thrombosis of left iliac vein,293461000119100,3646306012,31
+7654481000006118,^ESCTCH765448,,Chronic deep vein thrombosis of pelvic vein,709687000,3041096016,31
+12125841000006111,^ESCT1212584,,Acute deep vein thrombosis of right lower limb following procedure,15711241000119106,3646317013,31
+7966351000006118,^ESCTAC796635,,Acute deep vein thrombosis of lower limb,651000119108,2967724010,31
+5059321000006119,^ESCTIL505932,,Ileofemoral deep vein thrombosis,234044007,350671010,31
+216571000006116,SP122,SP12200,Postoperative deep vein thrombosis,213220000,325066018,32
+7291411000006115,^ESCTDE729141,,Deep vein thrombosis of bilateral lower extremities,444325005,2841044011,31
+12125801000006114,^ESCT1212580,,Acute deep vein thrombosis of left upper limb following procedure,15708401000119100,3646312019,31
+12107661000006110,^ESCT1210766,,Chronic deep vein thrombosis of right iliac vein,293451000119102,3646268013,31
+2730151000006115,^ESCTDE273015,,Deep vein thrombosis of splenic vein,14534009,476397019,31
+6694751000006113,^ESCTDV669475,,DVT - Deep vein thrombosis of lower limb,404223003,2162419014,32
+218551000000118,G801-2,G801.12,"Deep vein thrombosis, leg",266267005,395801015,32
+5059301000006112,^ESCTIL505930,,Iliofemoral deep vein thrombosis,234044007,3464381018,31
+2162148012,G801-3,G801.13,Deep vein thrombosis,128053003,2162149016,32
+211691000006114,L4141,L414100,Postnatal deep vein thrombosis - delivered with postnatal complication,200237000,307748011,32
+12107681000006117,^ESCT1210768,,Acute deep vein thrombosis of right iliac vein,293481000119109,3646321018,31
+12125791000006113,^ESCT1212579,,Acute deep vein thrombosis of right upper limb following procedure,15708201000119101,3646318015,31
+7665071000006116,^ESCTRE766507,,Recurrent DVT (deep vein thrombosis),710167004,2496081000000115,32
+8361031000006115,^ESCTPR836103,,Provoked DVT (deep vein thrombosis),978441000000108,2518461000000111,32
+307747018,L4140,L414000,Postnatal deep vein thrombosis unspecified,56272000,93577012,32
+307750015,L414z,L414z00,Postnatal deep vein thrombosis NOS,56272000,93577012,32
+1776621000006117,EMISNQRE220,,Reason for referral: Deep Vein Thrombosis,1776621000006101,1776621000006117,40
+495552014,L413,L413.00,Antenatal deep vein thrombosis,49956009,495552014,32
+2162422011,G801D,G801D00,Deep vein thrombosis of lower limb,404223003,2162422011,32
+12125851000006113,^ESCT1212585,,Acute deep vein thrombosis of left lower limb following procedure,15711401000119105,3646309017,31
+3308951000006115,^ESCTAN330895,,Antepartum deep vein thrombosis,49956009,83208016,32
+2488381000000116,G801J,G801J00,Provoked deep vein thrombosis,978441000000108,2488381000000116,32
+2144741000000111,G801G,G801G00,Recurrent deep vein thrombosis,710167004,3043650017,32
+307749015,L4142,L414200,Postnatal deep vein thrombosis with postnatal complication,200238005,307749015,32
+7291401000006118,^ESCTBI729140,,Bilateral deep vein thrombosis of lower extremities,444325005,3424070012,31
+8087351000006117,^ESCTBI808735,,Bilateral acute deep vein thrombosis of femoral veins,285381000119104,3424068015,31
+2784341000006116,^ESCTDE278434,,Deep vein thrombosis of portal vein,17920008,1221612011,32
+1119161000000115,G801F,G801F00,Deep vein thrombosis of peroneal vein,443210003,1664901000000117,32
+2488341000000112,G801H,G801H00,Unprovoked deep vein thrombosis,978421000000101,2488341000000112,32
+2247661000000111,8CMWA,8CMWA00,On deep vein thrombosis care pathway,869611000000104,2247661000000111,32
+307741017,L4132,L413200,Antenatal deep vein thrombosis with antenatal complication,200233001,307741017,32
+8087371000006110,^ESCTAC808737,,Acute deep vein thrombosis of bilateral femoral veins,285381000119104,3373296013,31
+12107691000006119,^ESCT1210769,,Acute deep vein thrombosis of left iliac vein,293491000119107,3644949016,31
+497563011,L414,L414.00,Postnatal deep vein thrombosis,56272000,497563011,32
+307815016,L43,L43..00,Obstetric pulmonary embolism,200284000,307815016,32
+307834016,L4321,L432100,Obstetric blood-clot pulmonary embolism - delivered,200301007,307834016,32
+307848016,L4331,L433100,Obstetric pyaemic and septic pulmonary embolism - delivered,200308001,307848016,32
+632111000000118,G4011,G401100,Recurrent pulmonary embolism,438773007,2793990014,32
+307820016,L4300,L430000,Obstetric air pulmonary embolism unspecified,200286003,307819010,32
+307826010,L4310,L431000,Amniotic fluid pulmonary embolism unspecified,17263003,29186013,32
+307838018,L432z,L432z00,Obstetric blood-clot pulmonary embolism NOS,200299000,307832017,32
+307862011,L43y1,L43y100,Other obstetric pulmonary embolism - delivered,200284000,307815016,32
+307867017,L43zz,L43zz00,Obstetric pulmonary embolism NOS,200284000,307815016,32
+307869019,L43z1,L43z100,Obstetric pulmonary embolism NOS - delivered,200284000,307815016,32
+307871019,L43z3,L43z300,Obstetric pulmonary embolism NOS with antenatal complication,200284000,307815016,32
+24951000006110,L43y2,L43y200,Other obstetric pulmonary embolism - delivered + p/n comp,200284000,307815016,32
+24981000006119,L43y3,L43y300,Other obstetric pulmonary embolism with antenatal comp,200284000,307815016,32
+4802531000006118,^ESCTOB480253,,Obstetric pyemic and septic pulmonary embolism with antenatal complication,200310004,307853014,32
+4802491000006118,^ESCTOB480249,,Obstetric pyemic and septic pulmonary embolism - delivered,200308001,307849012,32
+7498901000006118,^ESCTIN749890,,Induced termination of pregnancy complicated by pulmonary embolism,609480009,2966889016,32
+4802361000006115,^ESCTOB480236,,Obstetric air pulmonary embolism with antenatal complication,200290001,307823019,32
+3462921000006119,^ESCTPE346292,,PE - Pulmonary embolism,59282003,1231937012,32
+2773861000006116,^ESCTAM277386,,Amniotic fluid pulmonary embolism,17263003,478094014,32
+4802511000006112,^ESCTOB480251,,Obstetric pyemic and septic pulmonary embolism - delivered with postnatal complication,200309009,307850012,32
+4802371000006110,^ESCTOB480237,,Obstetric air pulmonary embolism with postnatal complication,200291002,307824013,32
+7498911000006115,^ESCTTE749891,,Termination of pregnancy complicated by pulmonary embolism,609480009,2966835018,32
+12368991000006118,^ESCT1236899,,Pulmonary embolism due to and following acute myocardial infarction,723859005,3673520015,31
+7254611000006113,^ESCTIN725461,,Infarction of lung due to iatrogenic pulmonary embolism,441746000,2817583016,31
+3402691000006113,^ESCTIL340269,,Illegal abortion with pulmonary embolism,55589000,92406012,31
+3836031000006117,^ESCTSP383603,,Spontaneous abortion with pulmonary embolism,82153002,136268014,31
+7699481000006113,^ESCTPU769948,,Pulmonary embolism on long-term anticoagulation therapy,713078005,3288022019,31
+2534981000006118,^ESCTOB253498,,Obstetrical pulmonary fat embolism,2261009,4905011,31
+5057651000006111,^ESCTSU505765,,Subacute massive pulmonary embolism,233937007,350504012,31
+3444091000006115,^ESCTFA344409,,Failed attempted termination of pregnancy with pulmonary embolism,58123006,2967230014,31
+3328051000006113,^ESCTLE332805,,Legal abortion with pulmonary embolism,51096002,85137010,31
+7254621000006117,^ESCTPU725462,,"Pulmonary embolism and infarction, iatrogenic",441746000,2923306010,31
+7579161000006113,^ESCTPU757916,,Pulmonary oil microembolism,703636009,3009008012,31
+2509061000006115,^ESCTPU250906,,Pulmonary embolism following molar AND/OR ectopic pregnancy,663008,2171017,31
+5057601000006112,^ESCTPT505760,,PTE - Pulmonary thromboembolism,233935004,350498016,31
+7617191000006113,^ESCTCH761719,,Chronic pulmonary thromboembolism without pulmonary hypertension,707413005,3030022015,31
+3328041000006111,^ESCTLE332804,,Legal termination of pregnancy with pulmonary embolism,51096002,2967307018,31
+269411000006115,L4322,L432200,Obstetric blood-clot pulmonary embolism - delivered with postnatal complication,200302000,307835015,32
+269841000006118,L4302,L430200,Obstetric air pulmonary embolism - delivered with postnatal complication,200289005,307822012,32
+479891000006116,L4313,L431300,Amniotic fluid pulmonary embolism with antenatal complication,200296007,307829015,32
+7617181000006110,^ESCTCH761718,,Chronic pulmonary thromboembolism,707412000,3029984016,31
+4802301000006116,^ESCTPU480230,,Puerperal pulmonary embolism,200284000,2475623017,32
+269891000006110,L4303,L430300,Obstetric air pulmonary embolism with a/n complication,200290001,307823019,32
+307856018,L433z,L433z00,Obstetric pyaemic and septic pulmonary embolism NOS,267284008,398448013,32
+307861016,L43y0,L43y000,Other obstetric pulmonary embolism unspecified,200284000,307815016,32
+7579171000006118,^ESCTPO757917,,POME - Pulmonary oil microembolism,703636009,3009826011,31
+5057691000006117,^ESCTPU505769,,Pulmonary tumour embolism,233940007,350508010,31
+479841000006113,L4312,L431200,Amniotic fluid pulmonary embolism - delivered with postnatal complication,200295006,307828011,32
+9325651000006111,^ESCTPU932565,,Pulmonary embolism in childbirth,10759311000119104,3006116019,31
+3836021000006115,^ESCTMI383602,,Miscarriage with pulmonary embolism,82153002,2966364016,31
+5057681000006115,^ESCTSU505768,,Subacute pulmonary fat embolism,233939005,350507017,31
+5057591000006116,^ESCTPU505759,,Pulmonary thromboembolism,233935004,350497014,31
+307825014,L430z,L430z00,Obstetric air pulmonary embolism NOS,200286003,307819010,32
+7848531000006119,^ESCTPU784853,,Pulmonary embolism following acute myocardial infarction,723859005,3427207014,31
+7967281000006119,^ESCTPU796728,,Pulmonary embolism with pulmonary infarction,1001000119102,2967075019,31
+307827018,L4311,L431100,Amniotic fluid pulmonary embolism - delivered,200294005,307827018,32
+268721000006114,L4333,L433300,Obstetric pyaemic and septic pulmonary embolism with antenatal complication,200310004,307852016,32
+268731000006112,L4334,L433400,Obstetric pyaemic and septic pulmonary embolism with postnatal complication,200311000,307855019,32
+269441000006116,L4324,L432400,Obstetric blood-clot pulmonary embolism with postnatal complication,200304004,307837011,32
+7848521000006117,^ESCTPU784852,,Pulmonary embolism as current complication following acute myocardial infarction,723859005,3427206017,31
+3444101000006114,^ESCTFA344410,,Failed attempted abortion with pulmonary embolism,58123006,96593013,31
+5057611000006110,^ESCTPE505761,,PE - Pulmonary thromboembolism,233935004,350499012,31
+7609581000006110,^ESCTAC760958,,Acute pulmonary embolism,706870000,3027244010,31
+4802551000006113,^ESCTOB480255,,Obstetric pyemic and septic pulmonary embolism with postnatal complication,200311000,307854015,32
+268641000006113,L43z,L43z.00,Obstetric pulmonary embolism NOS,200284000,307815016,32
+24991000006116,L43y4,L43y400,Other obstetric pulmonary embolism with postnatal comp,200284000,307815016,32
+307847014,L4330,L433000,Obstetric pyaemic and septic pulmonary embolism unspecified,267284008,398448013,32
+307868010,L43z0,L43z000,"Obstetric pulmonary embolism NOS, unspecified",200284000,307815016,32
+307821017,L4301,L430100,Obstetric air pulmonary embolism - delivered,200288002,307821017,32
+5057661000006113,^ESCTSA505766,,SAMPE - Subacute massive pulmonary embolism,233937007,350505013,31
+7967291000006116,^ESCTPU796729,,Pulmonary embolism with infarction,1001000119102,2967197019,31
+8042101000006112,^ESCTCH804210,,Chronic pulmonary embolism,133971000119108,2968248015,31
+268741000006119,L4332,L433200,Obstetric pyaemic and septic pulmonary embolism - delivered with postnatal complication,200309009,307851011,32
+479901000006117,L4314,L431400,Amniotic fluid pulmonary embolism with postnatal complication,200297003,307830013,32
+3402681000006110,^ESCTIL340268,,Illegal termination of pregnancy with pulmonary embolism,55589000,2967162016,31
+7251741000006115,^ESCTSE725174,,Septic pulmonary embolism,441557008,2816744010,31
+305585018,L0964,L096400,Pulmonary embolism following abortive pregnancy,609480009,2966835018,32
+5499801000006116,^ESCTOB549980,,Obstetric pyemic and septic pulmonary embolism,267284008,398449017,32
+268671000006117,L43z2,L43z200,Obstetric pulmonary embolism NOS - delivered with p/n comp,200284000,307815016,32
+398450017,L43y,L43y.00,Other obstetric pulmonary embolism,200284000,307815016,32
+5057631000006116,^ESCTAM505763,,AMPE - Acute massive pulmonary embolism,233936003,350500015,31
+888731000006119,L43-99,L43..99,Obstetrical pulmonary embolism,200284000,888731000006119,32
+307819010,L430,L430.00,Obstetric air pulmonary embolism,200286003,307819010,32
+307832017,L432,L432.00,Obstetric blood-clot pulmonary embolism,200299000,307832017,32
+5057641000006114,^ESCTAM505764,,AMP - Acute massive pulmonary embolism,233936003,350501016,31
+5057701000006117,^ESCTPU505770,,Pulmonary tumor embolism,233940007,350509019,31
+7617201000006111,^ESCTAC761720,,Acute pulmonary thromboembolism,707414004,3029966018,31
+5645781000006111,^ESCTPU564578,,Pulmonary air embolism,280964006,418849016,31
+5057621000006119,^ESCTAC505762,,Acute massive pulmonary embolism,233936003,350502011,31
+269901000006114,L4304,L430400,Obstetric air pulmonary embolism with p/n complication,200291002,307824013,32
+5057671000006118,^ESCTPU505767,,Pulmonary fat embolism,233938002,350506014,31
+307831012,L431z,L431z00,Amniotic fluid pulmonary embolism NOS,17263003,29186013,32
+307833010,L4320,L432000,Obstetric blood-clot pulmonary embolism unspecified,200299000,307832017,32
+307866014,L43yz,L43yz00,Other obstetric pulmonary embolism NOS,200284000,307815016,32
+307872014,L43z4,L43z400,Obstetric pulmonary embolism NOS with postnatal complication,200284000,307815016,32
+398448013,L433,L433.00,Obstetric pyaemic and septic pulmonary embolism,267284008,398448013,32
+98484016,G401,G401.00,Pulmonary embolism,59282003,98484016,32
+5047361000006115,^ESCTOP504736,,Operation for pulmonary embolism,233217004,349411011,31
+269431000006114,L4323,L432300,Obstetric blood-clot pulmonary embolism with antenatal complication,200303005,307836019,32
+7294411000006117,^ESCTEM729441,,Embolism from thrombosis of vein of thigh,444549009,2870606019,31
+7298341000006116,^ESCTEM729834,,Embolism from thrombosis of vein of lower extremity,444816006,2871476015,31
+12759341000006113,^ESCT1275934,,Embolism of vein NOS,587851000000108,1303861000000118,31
+7219441000006118,^ESCTEM721944,,Embolism from thrombosis of vein of distal lower extremity,439162001,2794752017,31
+300704016,G82,G82..00,Thromboembolism of vein,429098002,2692478010,32
+3132081000006111,^ESCTEM313208,,Embolism of renal vein,39291006,65887014,31
+1222321017,G82z0-1,G82z011,Embolism of vein NOS,234049002,350676017,32
+300711017,G823,G823.00,Embolism and thrombosis of the renal vein,195438008,300711017,32
+7559201000006117,^ESCTNE755920,,Neonatal noninfectious cerebral venous sinus thrombosis,702374000,2995375017,31
+100721000006111,F051,F051.00,Cerebral venous sinus thrombosis,192759008,296937016,32
+888691000006110,L414-99,L414.99,Postpartum DVT,56272000,888691000006110,32
+497564017,L414-1,L414.11,"DVT - deep venous thrombosis, postnatal",56272000,497564017,32
+888681000006112,L413-99,L413.99,Antepartum DVT,49956009,888681000006112,32
+632731000006118,L413-1,L413.11,Antenatal DVT,49956009,495551019,32
+6694761000006110,^ESCTDE669476,,Deep venous thrombosis of leg,404223003,2162420015,32
+7213971000006115,^ESCTDE721397,,Deep venous thrombosis of tibial vein,438785004,2792923012,31
+8042521000006110,^ESCTCH804252,,Chronic deep venous thrombosis of internal jugular vein,135011000119102,2971622010,31
+7078561000006114,^ESCTDE707856,,Deep venous thrombosis of profunda femoris vein,427775006,2691835010,31
+7093591000006117,^ESCTDE709359,,Deep venous thrombosis associated with coronary artery bypass graft,428781001,2694268011,31
+8041411000006110,^ESCTAC804141,,Acute deep venous thrombosis of lower limb due to coronary artery bypass grafting,132111000119107,3041042015,31
+5059261000006115,^ESCTDE505926,,Deep venous thrombosis of the inferior mesenteric vein,234041004,350664017,31
+4403291000006117,^ESCTDE440329,,Deep venous thrombosis of pelvic vein,128055005,194649017,31
+7078581000006116,^ESCTDE707858,,Deep venous thrombosis of deep femoral vein,427775006,2695171017,31
+7573221000006110,^ESCTDE757322,,Deep venous thrombosis of femoropopliteal vein,703277001,3008089014,31
+8041541000006110,^ESCTAC804154,,Acute deep venous thrombosis of popliteal vein,132251000119101,2972045019,31
+8041471000006118,^ESCTCH804147,,Chronic deep venous thrombosis of thigh,132171000119104,2972540015,31
+8041501000006113,^ESCTCH804150,,Chronic deep venous thrombosis of ileofemoral vein,132201000119100,2972013012,31
+8041581000006116,^ESCTAC804158,,Acute deep venous thrombosis of femoral vein,132291000119106,2971883017,31
+8041371000006114,^ESCTCH804137,,Chronic deep venous thrombosis of lower limb due to coronary artery bypass grafting,132091000119104,3041114015,31
+8041611000006112,^ESCTAC804161,,Acute deep venous thrombosis of upper extremity,132321000119103,2984376010,31
+8041431000006116,^ESCTCH804143,,Chronic deep venous thrombosis of calf,132131000119102,2972255011,31
+8041601000006114,^ESCTAC804160,,Acute deep venous thrombosis of ileofemoral vein,132301000119107,2972079018,31
+8042911000006112,^ESCTCH804291,,Chronic deep venous thrombosis of upper extremity as complication of procedure,136751000119108,2987716011,31
+8041571000006119,^ESCTAC804157,,Acute deep venous thrombosis,132281000119108,2968256017,31
+9849641000006112,^ESCTCH984964,,Chronic deep venous thrombosis,15760351000119105,3323438011,31
+8041381000006112,^ESCTCH804138,,Chronic deep venous thrombosis of lower extremity due to coronary artery bypass graft,132091000119104,3041359018,31
+8041671000006115,^ESCTAC804167,,Acute deep venous thrombosis of pelvic vein,132601000119102,2971213017,31
+8042921000006116,^ESCTAC804292,,Acute deep venous thrombosis of upper extremity as complication of procedure,136771000119104,2985049011,31
+4785671000006113,^ESCTDE478567,,Deep venous thrombosis of the superior mesenteric vein,197001004,302982017,32
+8041461000006113,^ESCTCH804146,,Chronic deep venous thrombosis of tibial vein,132161000119105,2971893012,31
+7078601000006114,^ESCTDE707860,,Deep venous thrombosis of the popliteal vein,427776007,2691844011,31
+8041481000006115,^ESCTCH804148,,Chronic deep venous thrombosis of femoral vein,132191000119103,2971507010,31
+8042511000006119,^ESCTAC804251,,Acute deep venous thrombosis of internal jugular vein,135001000119100,2971631010,31
+8041421000006119,^ESCTAC804142,,Acute deep venous thrombosis of lower extremity due to coronary artery bypass graft,132111000119107,3041255010,31
+8041591000006118,^ESCTAC804159,,Acute deep venous thrombosis of iliofemoral vein,132301000119107,3464378011,31
+8041491000006117,^ESCTCH804149,,Chronic deep venous thrombosis of iliofemoral vein,132201000119100,3464410011,31
+8041551000006112,^ESCTAC804155,,Acute deep venous thrombosis of tibial vein,132261000119104,2971889018,31
+2162149016,G801-1,G801.11,Deep venous thrombosis,128053003,194647015,32
+8041521000006115,^ESCTCH804152,,Chronic deep venous thrombosis of upper extremity,132221000119109,2984218019,31
+7273741000006119,^ESCTDE727374,,Deep venous thrombosis of peroneal vein,443210003,2839752017,32
+8041561000006114,^ESCTAC804156,,Acute deep venous thrombosis of thigh,132271000119105,2972392013,31
+8042931000006118,^ESCTAC804293,,Acute deep venous thrombosis of lower extremity as complication of procedure,136781000119101,2987447016,31
+8041441000006114,^ESCTCH804144,,Chronic deep venous thrombosis of lower extremity,132141000119106,2984377018,31
+4403281000006115,^ESCTDE440328,,Deep venous thrombosis of upper extremity,128054009,194648013,31
+8041451000006111,^ESCTCH804145,,Chronic deep venous thrombosis of popliteal vein,132151000119108,2971722015,31
+6694741000006111,^ESCTDE669474,,Deep venous thrombosis of lower extremity,404223003,2156120013,32
+989221000006110,G801D-99,G801D99,Deep venous thrombosis - leg,404223003,989221000006110,32
+8041531000006117,^ESCTAC804153,,Acute deep venous thrombosis of calf,132241000119103,2972812015,31
+8042501000006117,^ESCTAC804250,,Acute deep venous thrombosis of axillary vein,134961000119104,2971478018,31
+8087361000006115,^ESCTAC808736,,Acute deep venous thrombosis of bilateral femoral veins,285381000119104,3360665012,31
+6694771000006115,^ESCTDE669477,,Deep venous thrombosis of lower limb,404223003,2162421016,32
+884731000006110,G801-99,G801.99,Deep venous thrombosis - leg,266267005,884731000006110,32
+437622013,G824,G824.00,Axillary vein thrombosis,297156001,437622013,32
+2234371000000119,G826,G826.00,Thrombosis of internal jugular vein,864191000000104,2234371000000119,32
+64466019,G820-1,G820.11,Hepatic vein thrombosis,82385007,136654014,32
+2784351000006119,^ESCTPV278435,,PVT - Portal vein thrombosis,17920008,1221613018,32
+5574011000006113,^ESCTSU557401,,Superficial vein thrombosis,275517008,411509013,31
+3636258017,^ESCT1168904,,Thrombosis of iliac vein,762256003,3636258017,31
+2751251000006116,^ESCTTH275125,,Thrombosis of renal vein,15842009,26842019,31
+9478301000006119,^ESCTAC947830,,Acute thrombosis of superficial vein of right upper limb,12237871000119106,3322874017,31
+8045781000006113,^ESCTCH804578,,Chronic thrombosis of splenic vein,143551000119106,3322958014,31
+5059251000006117,^ESCTIN505925,,Inferior mesenteric vein thrombosis,234041004,350663011,31
+12122301000006112,^ESCT1212230,,Bilateral acute thrombosis of superficial vein of upper limbs,12237791000119102,3646289016,31
+5011661000006113,^ESCTCE501166,,Cerebral venous thrombosis of cortical vein,230722002,345699012,31
+9652971000006111,^ESCTTH965297,,Thrombosis of vein of upper limb,13730001000004107,3047599013,31
+8041691000006119,^ESCTAC804169,,Acute thrombosis of subclavian vein,132611000119104,2983921016,31
+2751271000006114,^ESCTRV275127,,RVT - Renal vein thrombosis,15842009,1221239013,31
+5059311000006110,^ESCTIF505931,,IFVT - Iliofemoral vein thrombosis,234044007,350670011,31
+8041901000006116,^ESCTAC804190,,Acute thrombosis of mesenteric vein,133421000119101,2990083016,31
+6348461000006112,^ESCTTR634846,,Traumatic thrombosis of axillary vein,371051005,1209759016,31
+7652621000006114,^ESCTAC765262,,Acute thrombosis of superficial vein of lower limb,709597002,3040614013,31
+12122311000006110,^ESCT1212231,,Acute thrombosis of superficial vein of bilateral upper limbs,12237791000119102,3646290013,31
+3767281000006116,^ESCTPU376728,,Pulmonary vein thrombosis,77892009,129266016,31
+7078591000006118,^ESCTTH707859,,Thrombosis of the popliteal vein,427776007,2691845012,31
+100821000006116,J4202,J420200,Superior mesenteric vein thrombosis,197001004,302981012,32
+5011671000006118,^ESCTCE501167,,Cerebral venous thrombosis of great cerebral vein,230723007,345700013,31
+7078571000006119,^ESCTTH707857,,Thrombosis of profunda femoris vein,427775006,2691836011,31
+8041651000006113,^ESCTCH804165,,Chronic thrombosis of subclavian vein,132551000119104,2983913010,31
+2730141000006117,^ESCTSP273014,,Splenic vein thrombosis,14534009,24693011,31
+4056971000006118,^ESCTTH405697,,Thrombosis of cerebral veins,95455008,158110019,32
+453210011,G8020,G802000,Thrombosis of vein of leg,309735004,453210011,32
+8041891000006115,^ESCTCH804189,,Chronic thrombosis of mesenteric vein,133411000119108,3015022014,31
+5059341000006114,^ESCTTR505934,,Transplant renal vein thrombosis,234046009,350673013,31
+7376891000006115,^ESCTIN737689,,Inflammatory thrombosis of superficial vein of lower leg,449926001,2912526018,31
+8041641000006111,^ESCTCH804164,,Chronic thrombosis of superficial vein of upper extremity,132531000119105,2972262019,31
+5059271000006110,^ESCTTH505927,,Thrombosis of vein of lower leg,234043001,2820167012,31
+2892651000006119,^ESCTBR289265,,Branch retinal vein thrombosis,24596005,481960011,32
+3614331000006110,^ESCTCE361433,,Central retinal vein thrombosis,68478007,501028012,32
+2234621000000111,SP08a,SP08a00,Thrombosis of vein of transplanted kidney,864311000000105,2234621000000111,32
+9478291000006115,^ESCTAC947829,,Acute thrombosis of superficial vein of left upper limb,12237831000119108,3322872018,31
+4056781000006117,^ESCTTH405678,,Thrombosis of pelvic vein,95448006,158101010,31
+8041661000006110,^ESCTAC804166,,Acute thrombosis of superficial vein of upper extremity,132591000119109,2987135016,31
+4056791000006119,^ESCTPE405679,,Pelvic vein thrombosis,95448006,512131015,31
+3636257010,^ESCT1168905,,Iliac vein thrombosis,762256003,3636257010,31
+8045791000006111,^ESCTAC804579,,Acute thrombosis of splenic vein,143561000119108,3322870014,31
+12728641000006110,^ESCT1272864,,Thrombosis of vein NOS,690131000000103,1510411000000110,31
+5992311000006119,^ESCTTH599231,,Thrombosis of vein of lower limb,309735004,453209018,32
+3244261000006119,^ESCTTH324426,,Thrombosis of retinal vein,46085004,76829016,32
+2234411000000115,G827,G827.00,Thrombosis of external jugular vein,864211000000100,2234411000000115,32
+851241000006115,EMISR4QAX1,,Axillary vein thrombosis,851241000006104,851241000006115,32
+503317010,G82z1-1,G82z111,Penis vein thrombosis,76598006,503317010,32
+5059331000006116,^ESCTTH505933,,Thrombosis of transplanted vein,234045008,350672015,31
+3123551000006116,^ESCTHE312355,,Hepatic vein thrombosis,38739001,64466019,31
+6018491000006111,^ESCTTH601849,,Thrombosis of vein of trunk,312584000,456331016,31
+7652711000006114,^ESCTCH765271,,Chronic thrombosis of superficial vein of lower limb,709602009,3040517011,31
+2892681000006110,^ESCTBR289268,,BRVT - Branch retinal vein thrombosis,24596005,481963013,32
+3614311000006116,^ESCTCR361431,,CRVT - Central retinal vein thrombosis,68478007,501026011,32
+3745871000006116,^ESCTTH374587,,Thrombosis of penile vein,76598006,127203016,32
+1235913017,G67A,G67A.00,Cerebral vein thrombosis,95455008,1235913017,32
+5653441000006111,^ESCTBR565344,,Brachiocephalic vein thrombosis,281597009,419642016,31
+7103181000006115,^ESCTTH710318,,Thrombosis of superficial vein of lower limb,429434005,2692642010,31
+12122321000006119,^ESCT1212232,,Acute thrombosis of superficial vein of both upper limbs,12237791000119102,3646291012,31
+2751261000006119,^ESCTRE275126,,Renal vein thrombosis,15842009,26843012,31
+2795114019,G825,G825.00,Thrombosis of subclavian vein,438647008,2795114019,32
+494431010,F4238-1,F423811,Retinal vein thrombosis,46085004,494431010,32
+30273012,G81,G81..00,Portal vein thrombosis,17920008,30273012,32
+302984016,J420y,J420y00,Thrombosis of mesenteric vein,95446005,158099015,32
+307780013,L417,L417.00,Obstetric cerebral venous thrombosis,200258006,307780013,32
+307781012,L4170,L417000,Cerebral venous thrombosis in pregnancy,200259003,307781012,32
+307782017,L4171,L417100,Cerebral venous thrombosis in the puerperium,200260008,307782017,32
+1729331000006116,EMISNQCE11,,Cerebral venous thrombosis,1729331000006100,1729331000006116,32
+2238261000000112,Gy20,Gy20.00,Thrombosis of dialysis arteriovenous graft,865981000000103,2238261000000112,32
+2608401000000118,G84A-1,,Perianal venous thrombosis,449815008,2608401000000118,32
+296940016,F051z,F051z00,Thrombosis of central nervous system venous sinus NOS,192759008,296937016,32
+4768491000006118,^ESCTTH476849,,Thrombosis of intracranial venous sinus,192759008,1784812010,32
+2837981000006113,^ESCTTH283798,,Thrombosis of lateral venous sinus,21258007,35718011,32
+3962581000006110,^ESCTTH396258,,Thrombosis of cavernous venous sinus,89980009,149150017,32
+2838001000006118,^ESCTCE283800,,Cerebral venous thrombosis of lateral sinus,21258007,1222620011,32
+4056811000006115,^ESCTHI405681,,High venous segment venous thrombosis,95448006,512133017,31
+4056801000006118,^ESCTUP405680,,Upper venous segment thrombosis,95448006,512132010,31
+5836951000006117,^ESCTIN583695,,Intracranial venous thrombosis,297157005,437623015,31
+6703961000006118,^ESCTSP670396,,Spontaneous arteriovenous fistula thrombosis,404814007,2156696012,31
+7103191000006117,^ESCTSU710319,,Superficial venous thrombosis of leg,429434005,2692641015,31
+8041741000006117,^ESCTTH804174,,Thrombosis of arteriovenous graft due to hemodialysis arteriovenous access device,133031000119106,3041189016,31
+5645871000006116,^ESCTAR564587,,Arteriovenous graft thrombosis,280972008,418858011,31
+5011641000006114,^ESCTCE501164,,Cerebral venous thrombosis of straight sinus,230720005,345697014,31
+3648401000006112,^ESCTCE364840,,Cerebral venous thrombosis of sagittal sinus,70607008,501620016,31
+7877141000006116,^ESCTVI787714,,Visceral venous thrombosis,726099002,3449291017,31
+3537531000006114,^ESCTTH353753,,Thrombosis of intracranial venous sinus of pregnancy AND/OR puerperium,63795001,106033019,31
+4195891000006116,^ESCTPO419589,,Postpartum venous thrombosis,111458008,178697018,31
+395803017,G82z1,G82z100,Venous thrombosis,111293003,178522012,32
+100691000006118,F0510,F051000,Cerebral venous thrombosis of cavernous sinus,89980009,1235519010,32
+3767271000006119,^ESCTPU376727,,Pulmonary venous thrombosis,77892009,129267013,31
+3745891000006115,^ESCTPE374589,,Penile venous thrombosis,76598006,3036947013,32
+884721000006112,G800-99,G800.99,Superfic.venous thrombosis leg,213310008,884721000006112,32
+542251000006112,G6760,G676000,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",195230003,300393016,32
+6018501000006115,^ESCTVE601850,,"Venous thrombosis, phlebitis and thrombophlebitis",312585004,456332011,31
+7838301000006118,^ESCTNE783830,,Neonatal cerebral sinovenous thrombosis,722930000,3333969013,31
+884751000006115,G82z1-99,G82z199,Venous thrombosis NOS,690131000000103,884751000006115,32
+2238341000000116,Gy22,Gy22.00,Thrombosis of dialysis arteriovenous shunt,866021000000106,2238341000000116,32
+4056981000006115,^ESCTCE405698,,Cerebral venous thrombosis,95455008,158111015,32
+9479381000006115,^ESCTTH947938,,Thrombosis of surgically created arteriovenous fistula,12245491000119103,3041343018,31
+350892013,SP07N,SP07N00,Arteriovenous fistula thrombosis,234205007,350892013,32
+7219451000006116,^ESCTEM721945,,Embolism from venous thrombosis of lower leg,439162001,2792755019,31
+5060741000006114,^ESCTCO506074,,Congenital arteriovenous fistula thrombosis,234152007,350818013,31
+5132111000006113,^ESCTVE513211,,Venous thrombosis of flap,239206006,358507018,31
+8041751000006115,^ESCTTH804175,,Thrombosis of arteriovenous graft caused by haemodialysis arteriovenous access device,133031000119106,3292003015,31
+586241000006116,G676,G676.00,Non-pyogenic venous sinus thrombosis,195229008,300392014,32
+5059281000006113,^ESCTLO505928,,Lower venous segment thrombosis,234043001,350668019,31
+3192781000006115,^ESCTNO319278,,Nonpyogenic thrombosis of intracranial venous sinus,42970005,71696016,31
+8041761000006118,^ESCTTH804176,,Thrombosis of arteriovenous graft caused by hemodialysis arteriovenous access device,133031000119106,3293436018,31
+7838291000006119,^ESCTNE783829,,Neonatal thrombosis of cerebral venous sinus,722930000,3333968017,31
+2238301000000119,Gy21,Gy21.00,Thrombosis of dialysis arteriovenous fistula,866001000000102,2238301000000119,32
+5645961000006115,^ESCTAR564596,,Arteriovenous shunt thrombosis,280979004,418867011,31
+8041731000006110,^ESCTTH804173,,Thrombosis of arteriovenous graft due to haemodialysis arteriovenous access device,133031000119106,3041266015,31
+12127301000006110,^ESCT1212730,,Chronic venous thrombosis,16026431000119101,3646280017,31
+3870121000006119,^ESCTCE387012,,Cerebral venous thrombosis of pregnancy AND/OR puerperium,84216001,139670012,31
+5011651000006111,^ESCTCE501165,,Cerebral venous thrombosis of sigmoid sinus,230721009,345698016,31
+8031581000006115,^ESCTVE803158,,Venous thrombosis due to central venous access device,100751000119101,2983858015,31

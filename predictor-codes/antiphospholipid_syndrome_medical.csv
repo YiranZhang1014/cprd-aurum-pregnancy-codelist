@@ -1,0 +1,9 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+44918014,N006,N006.00,Antiphospholipid syndrome,26843008,44918014,32
+2929831000006119,^ESCTAP292983,,APS - Antiphospholipid syndrome,26843008,1225127018,32
+2929851000006114,^ESCTAP292985,,APL - Antiphospholipid syndrome,26843008,1225129015,32
+5140941000006114,^ESCTPR514094,,Primary antiphospholipid syndrome,239892009,359450017,32
+5140971000006118,^ESCTSE514097,,Secondary antiphospholipid syndrome,239895006,359453015,32
+6670991000006115,^ESCTSY667099,,Systemic lupus erythematosus-associated antiphospholipid syndrome,402865003,1781955014,32
+7496411000006113,^ESCTCA749641,,Catastrophic antiphospholipid syndrome,609329007,2959303014,32
+8022611000006115,^ESCTAN802261,,Antiphospholipid syndrome in pregnancy,72161000119100,2990771013,32

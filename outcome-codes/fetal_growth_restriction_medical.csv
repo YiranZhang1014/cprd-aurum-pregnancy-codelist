@@ -1,0 +1,36 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+36966018,Q10z-1,Q10z.11,Intrauterine growth retardation,22033007,36966018,32
+308070019,L2653-1,L265311,Maternal care for intrauterine growth retardation,173300003,268308014,32
+402202012,Q10z,Q10z.00,Foetal growth retardation,22033007,3012147019,32
+140281000006110,Q11,Q11..00,Short gestation and unspecified low birthweight problems,44247006,73791010,16
+734781000006115,Q114,Q114.00,Low birth weight,276610007,412833012,32
+316883017,Qyu10,Qyu1000,Low birth weight infant,276610007,412831014,32
+412836016,Q115,Q115.00,Extremely low birth weight infant,276612004,412836016,32
+3467711000006110,^ESCTGR346771,,Growth retardation,59576002,98954017,31
+5587671000006110,^ESCTSY558767,,Symmetrical growth retardation,276607000,412827015,31
+306721016,L2652,L265200,Small-for-dates with antenatal problem,199613000,306721016,32
+306717011,L2650,L265000,Small-for-dates unspecified,267258002,398411016,32
+306719014,L2651,L265100,Small-for-dates - delivered,199612005,306719014,32
+306723018,L265z,L265z00,Small-for-dates NOS,267258002,398411016,32
+308071015,L514,L514.00,Maternal care for poor fetal growth,173300003,268308014,32
+136771000006117,Q10,Q10..00,Slow fetal growth AND/OR fetal malnutrition,18471004,31169011,32
+624261000006111,Q1,Q1...00,"Disorders due to slow fetal growth, low and high birth weight",206161005,316086012,32
+624801000006114,Q1z,Q1z..00,"Disorders slow fetal growth, low and high birthweight NOS",206161005,316086012,32
+624811000006112,Q1y,Q1y..00,"Disorders slow fetal growth, low and high birthweight OS",206161005,316086012,32
+715861000006110,L2653,L265300,Maternal care for poor fetal growth,173300003,268308014,32
+2793331000006111,^ESCTSL279333,,Slow foetal growth AND/OR foetal malnutrition,18471004,3011304011,32
+2850671000006115,^ESCTFE285067,,Fetal growth restriction,22033007,2475837011,32
+2850681000006117,^ESCTFE285068,,Fetal growth retardation,22033007,36958010,32
+2850691000006119,^ESCTPO285069,,Poor fetal growth state,22033007,36962016,32
+2850731000006110,^ESCTIU285073,,IUGR - Intrauterine growth retardation,22033007,1222701016,32
+2850741000006117,^ESCTPO285074,,Poor fetal growth,22033007,1222702011,32
+2850751000006115,^ESCTFG285075,,FGR - Fetal growth retardation,22033007,1222703018,32
+2850761000006118,^ESCTPO285076,,Poor foetal growth state,22033007,3011128019,32
+2850771000006113,^ESCTPO285077,,Poor foetal growth,22033007,3011307016,32
+2850781000006111,^ESCTFG285078,,FGR - Foetal growth retardation,22033007,3011919016,32
+3268641000006118,^ESCTCO326864,,"Coloboma, congenital heart disease, choanal atresia, growth retardation, genital hypoplasia, ear and hearing anomaly syndrome",47535005,1230481016,32
+4835581000006115,^ESCTDI483558,,"Disorder due to slow foetal growth, low and/or high birth weight",206161005,2965829013,32
+4835601000006113,^ESCTDI483560,,"Disorder due to slow fetal growth, low and/or high birth weight",206161005,2965965019,32
+5587641000006119,^ESCTFE558764,,Fetal growth abnormality,276604007,412819012,31
+5587661000006115,^ESCTAS558766,,Asymmetrical growth retardation,276606009,412826012,31
+7559521000006113,^ESCTIN755952,,"Intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomaly syndrome",702384004,2995258014,31

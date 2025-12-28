@@ -1,0 +1,20 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+3279781000006118,^ESCTGH327978,,GH - Gestational hypertension,48194001,495018019,32
+495022012,L1235,L123500,Gestational hypertension,48194001,495022012,32
+3279801000006119,^ESCTHY327980,,Hypertension induced by pregnancy,48194001,495023019,32
+991731000006118,L1235-99,L123599,Hypertension of preg. NOS,48194001,991731000006118,32
+887831000006111,L123z-99,L123z99,Hypertension of preg. NOS,695711000000100,887831000006111,32
+887821000006113,L123-99,L123.99,Hypertension of pregnancy,237279007,887821000006113,32
+305774018,L1231,L123100,Transient hypertension of pregnancy - delivered,198965005,305774018,32
+305776016,L1233,L123300,Transient hypertension of pregnancy - not delivered,198967002,305776016,32
+355621014,L1236,L123600,Transient hypertension of pregnancy,237279007,355621014,32
+95981000006112,L123,L123.00,Transient hypertension of pregnancy,237279007,355621014,32
+8016561000006114,^ESCTPO801656,,Postpartum pregnancy-induced hypertension,40521000119100,3005717012,31
+96011000006114,L1232,L123200,Transient hypertension of pregnancy - delivered with postnatal complication,198966006,305775017,32
+76631000006118,L12z1,L12z100,Pregnancy-induced hypertension,48194001,80299016,32
+3279821000006112,^ESCTPI327982,,PIH - Pregnancy-induced hypertension,48194001,495026010,32
+12728941000006118,^ESCT1272894,,Transient hypertension of pregnancy NOS,695711000000100,1521571000000116,31
+96001000006111,L1234,L123400,Transient hypertension of pregnancy with postnatal complication,198968007,305777013,32
+305780014,L123z,L123z00,Transient hypertension of pregnancy NOS,237279007,355621014,32
+305773012,L1230,L123000,Transient hypertension of pregnancy unspecified,237279007,355621014,32
+5970791000006118,^ESCTNO597079,,Non-proteinuric hypertension of pregnancy,307632004,450961014,32

@@ -1,0 +1,4 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+11385017,Q4z-2,Q4z..12,Neonatal death,276506001,2871427014,32
+1485203019,Q48y6,Q48y600,Early neonatal death,391181005,1485203019,32
+412661016,Q48y7,Q48y700,Late neonatal death,276505002,412661016,32

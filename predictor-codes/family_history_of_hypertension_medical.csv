@@ -1,0 +1,4 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+4530231000006110,^ESCTFA453023,,Family history of hypertension,160357008,249942014,7
+4530241000006117,^ESCTFA453024,,Family history: Hypertension,160357008,2666924010,7
+249943016,12C1,12C1.00,FH: Hypertension,160357008,249943016,7

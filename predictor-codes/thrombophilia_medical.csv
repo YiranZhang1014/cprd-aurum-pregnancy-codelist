@@ -1,0 +1,22 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+7214721000006116,^ESCTHE721472,,Hereditary thrombophilic dysfibrinogenaemia,438827002,2792833017,31
+7214731000006118,^ESCTHE721473,,Hereditary thrombophilic dysfibrinogenemia,438827002,2794775012,31
+351300013,D30A,D30A.00,Thrombophilia,234467004,351300013,32
+2871986010,D30A0,D30A000,Primary thrombophilia,439698008,2871986010,32
+7259331000006113,^ESCTTH725933,,Thrombophilia due to malignant neoplasm,442078001,2818359014,31
+7217191000006111,^ESCTTH721719,,Thrombophilia due to acquired protein C deficiency,439002002,2792739014,31
+7218921000006113,^ESCTTH721892,,Thrombophilia due to acquired protein S deficiency,439125003,2791625017,31
+7253801000006114,^ESCTGE725380,,Gestational thrombophilia,441697004,2817618011,31
+7260071000006114,^ESCTTH726007,,Thrombophilia due to vascular anomaly,442121006,2819058017,31
+7253791000006113,^ESCTTH725379,,Thrombophilia associated with pregnancy,441697004,2817619015,31
+1992261000006110,EMISNQVT5,,VTE risk assessment - known thrombophilia,1992261000006106,1992261000006110,32
+7245461000006110,^ESCTTH724546,,Thrombophilia due to antiphospholipid antibody,441079006,2791060010,31
+7217181000006113,^ESCTAC721718,,Acquired thrombophilia,439001009,2792738018,31
+7258051000006112,^ESCTTH725805,,Thrombophilia due to paroxysmal nocturnal hemoglobinuria,441990004,2818602015,31
+7258061000006114,^ESCTTH725806,,Thrombophilia due to paroxysmal nocturnal hemoglobinuria (PNH),441990004,2818603013,31
+7218931000006111,^ESCTTH721893,,Thrombophilia due to acquired antithrombin III deficiency,439126002,2790914015,31
+7226641000006117,^ESCTHE722664,,Hereditary thrombophilia,439698008,2794141016,32
+7258041000006110,^ESCTTH725804,,Thrombophilia due to paroxysmal nocturnal haemoglobinuria (PNH),441990004,2818601010,31
+7257411000006116,^ESCTTH725741,,Thrombophilia due to myeloproliferative disorder,441946009,2818197016,31
+7258031000006117,^ESCTTH725803,,Thrombophilia due to paroxysmal nocturnal haemoglobinuria,441990004,2818600011,31
+3746111000006114,^ESCTHY374611,,Hypercoagulable state,76612001,127225010,31

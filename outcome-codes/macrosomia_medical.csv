@@ -1,0 +1,6 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId,Sources
+752051000006118,Q12-1,Q12..11,Large baby born,268818009,402205014,32,
+624791000006113,Q12,Q12..00,Disorders relating to long gestation and high birth weight,268818009,402205014,32,
+263512019,6378,6378,Birth HC = > 97th centile,169884005,263512019,16,
+263522013,638Z,638Z.00,Birth length = > 97th centile,169894000,263522013,16,
+894061000006115,Q120-99,Q120.99,Very large baby - 4500 gm +,206180007,894061000006115,32,

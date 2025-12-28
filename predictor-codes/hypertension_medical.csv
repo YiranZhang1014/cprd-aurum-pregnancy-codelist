@@ -1,0 +1,136 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+12496011,F4213,F421300,Hypertensive retinopathy,6962006,12496011,,32
+60444016,G211,G211.00,Benign hypertensive heart disease,36221001,60444016,,32
+64282015,G22,G22..00,Hypertensive renal disease,38481006,64282015,,32
+80224019,G203,G203.00,Diastolic hypertension,48146000,80224019,,32
+84111015,G672,G672.00,Hypertensive encephalopathy,50490005,84111015,,32
+93494011,G202,G202.00,Systolic hypertension,56218007,93494011,,32
+107545013,G21,G21..00,Hypertensive heart disease,64715009,107545013,,32
+253532015,212K,212K.00,Hypertension resolved,162659009,253532015,,27
+299673010,G233,G233.00,Hypertensive heart and renal disease with renal failure,194780003,299673010,,32
+451424017,8B26,8B26.00,Antihypertensive therapy,308116003,451424017,,32
+1780318013,662b,662b.00,Moderate hypertension control,401117004,1780318013,,1
+350601000000116,7Q01,7Q01.00,High cost hypertension drugs,220901000000101,350601000000116,,32
+54939014,G22-1,G22..11,Nephrosclerosis,38481006,64282015,,32
+299686018,G2y,G2y..00,Other specified hypertensive disease,38341003,1215744012,,32
+300870016,Gyu20,Gyu2000,[X]Other secondary hypertension,31992008,53452019,,32
+19441000006114,L122z,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS,86041002,142647015,,32
+19451000006111,L1220,L122000,Other pre-existing hypertension in preg/childb/puerp unspec,86041002,142647015,,32
+39871000006113,L1222,L122200,Oth pre-exist hypert in preg/childb/puerp -del with p/n comp,86041002,142647015,,32
+212961000006118,L127z,L127z00,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,198997005,305818015,,32
+504811000006110,L1200,L120000,Benign essential hypertension in preg/childb/puerp unspec,86041002,142647015,,32
+741661000006118,G21z,G21z.00,Hypertensive heart disease NOS,64715009,107545013,,32
+741681000006111,G21z1,G21z100,Hypertensive heart disease NOS with CCF,64715009,107545013,,32
+741691000006114,G21z0,G21z000,Hypertensive heart disease NOS without CCF,64715009,107545013,,32
+300869017,Gyu2,Gyu2.00,[X]Hypertensive diseases,38341003,1215744012,,32
+504911000006115,G2110,G211000,Benign hypertensive heart disease without CCF,77970009,129404019,,32
+299665018,G222,G222.00,Hypertensive renal disease with renal failure,49220004,81984019,,32
+299650019,G210z,G210z00,Malignant hypertensive heart disease NOS,54225002,90135019,,32
+12487991000006113,^ESCT1248799,,Hypertensive treatm.changed,170587004,264486018,,1
+3552531000006110,^ESCTHH355253,,HHD - Hypertensive heart disease,64715009,499930018,,32
+3119661000006114,^ESCTHY311966,,Hypertensive nephropathy,38481006,64285018,,32
+3117411000006118,^ESCTHI311741,,High blood pressure,38341003,64172013,,32
+3117511000006117,^ESCTHT311751,,HTN - Hypertension,38341003,2164904016,,32
+3784371000006115,^ESCTAC378437,,Accelerated essential hypertension,78975002,503982017,,32
+3117521000006113,^ESCTHY311752,,"Hypertensive disorder, systemic arterial",38341003,2671386015,,32
+3117451000006117,^ESCTBP311745,,BP - High blood pressure,38341003,490277011,,32
+3117501000006115,^ESCTBP311750,,BP+ - Hypertension,38341003,490283014,,32
+3117481000006113,^ESCTHT311748,,HT - Hypertension,38341003,490281011,,32
+4775791000006113,^ESCTMA477579,,Malignant secondary renovascular hypertension,194783001,2470030014,,32
+3117491000006111,^ESCTHI311749,,High blood pressure disorder,38341003,490282016,,32
+4061031000006118,^ESCTAR406103,,Arteriosclerotic retinopathy,95691008,158518015,,32
+351341000000118,7Q01z,7Q01z00,High cost hypertension drugs NOS,220901000000101,350591000000110,,32
+299683014,G24z0,G24z000,Renovascular hypertension,123799005,192288012,,32
+299687010,G2z,G2z..00,Hypertensive disorder,38341003,1215744012,,32
+213081000006118,L1282,L128200,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",199008003,305829016,,32
+213091000006115,L1280,L128000,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",199006004,305827019,,32
+728671000006119,G2101,G210100,Malignant hypertensive heart disease with congestive cardiac failure,83105008,1236017010,,32
+728681000006116,G2100,G210000,Malignant hypertensive heart disease without congestive heart failure,36315003,60617018,,32
+789941000006117,G234,G234.00,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,194781004,299674016,,32
+264485019,662F,662F.00,Treatment for hypertension started,170586008,2694699015,,1
+264486018,662G,662G.00,Hypertensive treatment changed,170587004,2871342011,,1
+351361000000117,7Q01y,7Q01y00,Other specified high cost hypertension drugs,220901000000101,350591000000110,,32
+4634851000006119,^ESCTTR463485,,Treatment for hypertension started,170586008,4634851000006119,,1
+3296351000006114,^ESCTHY329635,,Hypertensive renal failure,49220004,81984019,,32
+3117461000006115,^ESCTSY311746,,Systemic arterial hypertension,38341003,490278018,,32
+3552501000006119,^ESCTHY355250,,Hypertensive cardiopathy,64715009,107547017,,32
+2474335018,8CR4,8CR4.00,Hypertension clinical management plan,736286003,3517026016,,32
+299655012,G21zz,G21zz00,Hypertensive heart disease NOS,64715009,107545013,,32
+299675015,G23z,G23z.00,Hypertensive heart and renal disease NOS,86234004,143003017,,32
+530221000000112,662r,662r.00,Trial withdrawal of antihypertensive therapy,299561000000105,530221000000112,,1
+411508017,G21z0-1,G21z011,Cardiomegaly - hypertensive,275516004,411508017,,32
+305818015,L127,L127.00,Pre-eclampsia or eclampsia with pre-existing hypertension,198997005,305818015,,32
+1529013,F4042,F404200,Blind hypertensive eye,264008,1529013,,32
+151161000006115,G240,G240.00,Malignant secondary hypertension,89242004,147988014,,32
+741701000006114,G232,G232.00,Hypertensive heart and renal disease with (congestive) heart failure,194779001,299672017,,32
+3768511000006114,^ESCTBE376851,,Benign hypertensive heart disease without congestive heart failure,77970009,129404019,,32
+3898601000006112,^ESCTPR389860,,Pre-existing hypertension in obstetric context,86041002,142647015,,32
+3898611000006110,^ESCTPR389861,,Pre-existing hypertension complicating pregnancy,86041002,506901015,,32
+3552511000006116,^ESCTHY355251,,Hypertensive cardiomegaly,64715009,107548010,,32
+3117431000006112,^ESCTHY311743,,Hypertensive vascular degeneration,38341003,64174014,,32
+4634871000006112,^ESCTHY463487,,Hypertensive treatment changed,170587004,4634871000006112,,1
+3468501000006117,^ESCTSY346850,,Systemic primary arterial hypertension,59621000,99046010,,32
+356121000006111,U60C5-1,U60C511,[X] Adverse reaction to other antihypertensives,293495006,433712011,,5
+504801000006112,L120z,L120z00,Benign essential hypertension in preg/childb/puerp NOS,86041002,142647015,,32
+19431000006116,L1221,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,86041002,142647015,,32
+299682016,G24zz,G24zz00,Secondary hypertension NOS,31992008,53452019,,32
+395751018,G20z,G20z.00,Essential hypertension NOS,59621000,99042012,,32
+299676019,G2400,G240000,Secondary malignant renovascular hypertension,194783001,299676019,,32
+299681011,G244,G244.00,Hypertension secondary to endocrine disorders,194788005,299681011,,32
+251674014,14A2,14A2.00,H/O: hypertension,161501007,251674014,,32
+53452019,G24,G24..00,Secondary hypertension,31992008,53452019,,32
+109700019,G231,G231.00,Benign hypertensive heart AND renal disease,66052004,109700019,,32
+131046010,G200,G200.00,Malignant essential hypertension,78975002,131046010,,32
+143003017,G23,G23..00,Hypertensive heart AND renal disease,86234004,143003017,,32
+1780253016,662c,662c.00,Hypertension six month review,401048005,1780253016,,1
+443764015,662O,662O.00,On treatment for hypertension,302192008,443764015,,1
+299680012,G241z,G241z00,Benign secondary hypertension,194785008,2470031013,,32
+331302012,TJC7z,TJC7z00,Antihypertensive adverse reaction,293495006,433712011,,5
+504901000006118,G2111,G211100,Benign hypertensive heart disease with congestive cardiac failure,194767001,299653017,,32
+4775831000006118,^ESCTHY477583,,Hypertension secondary to endocrine disorder,194788005,2532161014,,32
+3117421000006114,^ESCTHY311742,,Hypertensive vascular disease,38341003,64173015,,32
+11777411000006113,^ESCT1177741,,Renal disease due to hypertension,38481006,3512257015,,32
+4356081000006115,^ESCTHY435608,,Hypertension due to renovascular disease,123799005,1220673019,,32
+3468491000006113,^ESCTID346849,,Idiopathic hypertension,59621000,99044013,,32
+3117471000006110,^ESCTHB311747,,HBP - High blood pressure,38341003,490280012,,32
+790131000006118,21261,2126100,Hypertension resolved,162659009,253532015,,27
+395753015,G22z,G22z.00,Hypertensive renal disease NOS,38481006,64282015,,32
+19411000006110,L1224,L122400,Other pre-exist hypertension in preg/childb/puerp + p/n comp,86041002,142647015,,32
+19421000006119,L1223,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,86041002,142647015,,32
+305764016,L122,L122.00,Other pre-existing hypertension in preg/childbirth/puerp,86041002,142647015,,32
+2159168015,8BL0,8BL0.00,Patient on maximal tolerated antihypertensive therapy,407567007,2159168015,,32
+264472017,6628,6628.00,Poor hypertension control,170578008,264472017,,1
+3135013,G201,G201.00,Benign essential hypertension,1201005,3135013,,32
+99042012,G20,G20..00,Essential hypertension,59621000,99042012,,32
+3693711000006119,^ESCTBE369371,,Benign secondary renovascular hypertension,73410007,121910014,,32
+12488211000006112,^ESCT1248821,,Hypertension treatm. started,170586008,264485019,,1
+4540441000006117,^ESCTHI454044,,History of hypertension,161501007,2987063016,,32
+351481000006111,U60C5-A,U60C51A,[X] Adverse reaction to antihypertensives NOS,293495006,433712011,,5
+331291010,TJC7,TJC7.00,Adverse reaction to other antihypertensives,293495006,433712011,,5
+299654011,G211z,G211z00,Benign hypertensive heart disease NOS,36221001,60444016,,32
+299677011,G240z,G240z00,Secondary malignant hypertension NOS,89242004,147988014,,32
+300871017,Gyu21,Gyu2100,[X]Hypertension secondary to other renal disorders,31992008,53452019,,32
+47076011,G22z-1,G22z.11,Renal hypertension,38481006,64282015,,32
+84112010,G672-1,G672.11,Hypertensive crisis,50490005,84111015,,32
+884121000006111,G200-99,G200.99,Malignant hypertension,78975002,884121000006111,,32
+1780319017,662d,662d.00,Hypertension annual review,401118009,1780319017,,1
+1409014,G221,G221.00,Benign hypertensive renal disease,193003,1409014,,32
+64168014,G2,G2...00,Hypertensive disease,38341003,64168014,,32
+90135019,G210,G210.00,Malignant hypertensive heart disease,54225002,90135019,,32
+99047018,G20-2,G20..12,Primary hypertension,59621000,99047018,,32
+264471012,6627,6627.00,Good hypertension control,170577003,264471012,,1
+3552521000006112,^ESCTHY355252,,Hypertensive cardiovascular disease,64715009,107549019,,32
+4061041000006111,^ESCTRE406104,,Retinal arteriosclerosis,95691008,158519011,,32
+3950631000006119,^ESCTAC395063,,Accelerated secondary hypertension,89242004,508416019,,32
+3852501000006115,^ESCTMA385250,,Malignant hypertensive heart disease with congestive heart failure,83105008,137848017,,32
+523801000006119,G2-1,G2...11,BP - hypertensive disease,38341003,64168014,,32
+158241000006117,G24z,G24z.00,Secondary hypertension NOS,31992008,53452019,,32
+213011000006113,L1270,L127000,Pre-eclampsia or eclampsia with hypertension unspecified,198997005,305818015,,32
+884131000006114,G23-99,G23..99,Hypertensive renal + heart dis,86234004,884131000006114,,32
+2478822013,G2410,G241000,Secondary benign renovascular hypertension,73410007,2478822013,,32
+299678018,G241,G241.00,Secondary benign hypertension,194785008,299678018,,32
+299684015,G24z1,G24z100,Hypertension secondary to drug,194791005,299684015,,5
+108730018,G220,G220.00,Malignant hypertensive renal disease,65443008,108730018,,32
+110659019,G230,G230.00,Malignant hypertensive heart AND renal disease,66610008,110659019,,32
+213111000006112,L128,L128.00,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",199005000,305826011,,32
+790121000006116,G20z-1,G20z.11,Hypertension,38341003,64176011,,32

@@ -1,0 +1,3 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+3495761000006115,^ESCTOV349576,,Ovulation induction,61285001,101828016,31
+3495781000006113,^ESCTIN349578,,Induction of ovulation,61285001,1232200013,31

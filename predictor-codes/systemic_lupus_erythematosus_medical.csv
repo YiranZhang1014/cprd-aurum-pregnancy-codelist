@@ -1,0 +1,25 @@
+MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+92208011,N000,N000.00,Systemic lupus erythematosus,55464009,92208011,32
+158442019,N0006-1,N000611,Systemic lupus erythematosus encephalitis,95644001,158442019,32
+301721015,H57y4,H57y400,Lung disease with systemic lupus erythematosus,196138005,301721015,32
+309408013,N000z,N000z00,Systemic lupus erythematosus NOS,55464009,92208011,32
+312579010,Nyu43,Nyu4300,[X]Other forms of systemic lupus erythematosus,55464009,92208011,32
+453243010,N0004,N000400,Systemic lupus erythematosus with pericarditis,309762007,453243010,32
+114251000006118,N0003,N000300,Systemic lupus erythematosus with organ/system involvement,239887007,359443016,32
+177301000006114,K0B40,K0B4000,Renal tubulo-interstitial disorder in systemic lupus erythematosus,307755009,451122013,32
+677561000006119,K01x4,K01x400,Nephrotic syndrome in systemic lupus erythematosus,68815009,114310015,32
+3400601000006117,^ESCTSL340060,,SLE - Systemic lupus erythematosus,55464009,1231480012,32
+5140901000006112,^ESCTSY514090,,Systemic lupus erythematosus with multisystem involvement,239890001,359446012,31
+6670991000006115,^ESCTSY667099,,Systemic lupus erythematosus-associated antiphospholipid syndrome,402865003,1781955014,32
+6681821000006113,^ESCTAC668182,,Acute systemic lupus erythematosus,403486000,1782522010,31
+7511501000006112,^ESCTSY751150,,Systemic lupus erythematosus in remission,698694005,2975342019,31
+8320771000006119,^ESCTSY832077,,Systemic lupus erythematosus/Sjogren's overlap syndrome,905381000000108,2328211000000115,31
+92209015,N0000,N000000,Disseminated lupus erythematosus,55464009,92209015,32
+297542011,F3710,F371000,Polyneuropathy in disseminated lupus erythematosus,193178008,297542011,32
+297639014,F3961,F396100,Myopathy due to disseminated lupus erythematosus,193248005,297639014,32
+2573581000006110,^ESCTSL257358,,"SLE glomerulonephritis syndrome, WHO class II",4676006,8814010,31
+3086671000006119,^ESCTSL308667,,"SLE glomerulonephritis syndrome, WHO class IV",36402006,60752017,31
+3343571000006117,^ESCTSL334357,,"SLE glomerulonephritis syndrome, WHO class V",52042003,86630016,31
+3619221000006118,^ESCTSL361922,,SLE glomerulonephritis syndrome,68815009,114307010,32
+3691761000006115,^ESCTSL369176,,"SLE glomerulonephritis syndrome, WHO class I",73286009,121706015,31
+3744641000006112,^ESCTSL374464,,"SLE glomerulonephritis syndrome, WHO class III",76521009,127076018,31

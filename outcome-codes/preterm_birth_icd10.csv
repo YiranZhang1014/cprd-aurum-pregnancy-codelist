@@ -1,0 +1,9 @@
+ICD10,Description,Sources
+O60,Preterm labour and delivery,
+O60.1,Preterm spontaneous labour with preterm delivery,
+O60.2,Preterm spontaneous labour with term delivery,
+O60.3,Preterm delivery without spontaneous labour,
+P07.2,Extreme immaturity,
+P07.3,Other preterm infants,
+P59.0,Neonatal jaundice associated with preterm delivery,
+P61.2,Anaemia of prematurity,
