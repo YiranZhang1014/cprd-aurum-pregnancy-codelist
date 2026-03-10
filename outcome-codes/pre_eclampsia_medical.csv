@@ -30,7 +30,6 @@ MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescr
 3255831000006110,^ESCTSE325583,,Severe proteinuric hypertension of pregnancy,46764007,1494752012,32
 3162241000006116,^ESCTMI316224,,Mild proteinuric hypertension of pregnancy,41114007,1229720018,32
 5105201000006119,^ESCTMO510520,,Moderate proteinuric hypertension of pregnancy,237281009,355624018,32
-494622019,L12B,L12B.00,Proteinuric hypertension of pregnancy,398254007,1786188019,32
 6600711000006116,^ESCTEP660071,,"EPH - Edema, proteinuria and hypertension of pregnancy",398254007,1784021012,32
 6600681000006117,^ESCTEP660068,,"EPH - Oedema, proteinuria and hypertension of pregnancy",398254007,1783632018,32
 26988014,L126,L126.00,Eclampsia,15938005,26988014,32
