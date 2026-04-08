@@ -92,7 +92,6 @@ MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescr
 4356081000006115,^ESCTHY435608,,Hypertension due to renovascular disease,123799005,1220673019,,32
 3468491000006113,^ESCTID346849,,Idiopathic hypertension,59621000,99044013,,32
 3117471000006110,^ESCTHB311747,,HBP - High blood pressure,38341003,490280012,,32
-790131000006118,21261,2126100,Hypertension resolved,162659009,253532015,,27
 395753015,G22z,G22z.00,Hypertensive renal disease NOS,38481006,64282015,,32
 19411000006110,L1224,L122400,Other pre-exist hypertension in preg/childb/puerp + p/n comp,86041002,142647015,,32
 19421000006119,L1223,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,86041002,142647015,,32
