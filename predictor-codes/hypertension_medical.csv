@@ -6,7 +6,6 @@ MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescr
 84111015,G672,G672.00,Hypertensive encephalopathy,50490005,84111015,,32
 93494011,G202,G202.00,Systolic hypertension,56218007,93494011,,32
 107545013,G21,G21..00,Hypertensive heart disease,64715009,107545013,,32
-253532015,212K,212K.00,Hypertension resolved,162659009,253532015,,27
 299673010,G233,G233.00,Hypertensive heart and renal disease with renal failure,194780003,299673010,,32
 451424017,8B26,8B26.00,Antihypertensive therapy,308116003,451424017,,32
 1780318013,662b,662b.00,Moderate hypertension control,401117004,1780318013,,1
@@ -129,7 +128,6 @@ MedCodeId,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescr
 884131000006114,G23-99,G23..99,Hypertensive renal + heart dis,86234004,884131000006114,,32
 2478822013,G2410,G241000,Secondary benign renovascular hypertension,73410007,2478822013,,32
 299678018,G241,G241.00,Secondary benign hypertension,194785008,299678018,,32
-299684015,G24z1,G24z100,Hypertension secondary to drug,194791005,299684015,,5
 108730018,G220,G220.00,Malignant hypertensive renal disease,65443008,108730018,,32
 110659019,G230,G230.00,Malignant hypertensive heart AND renal disease,66610008,110659019,,32
 213111000006112,L128,L128.00,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",199005000,305826011,,32
