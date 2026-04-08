@@ -1,0 +1,4 @@
+MedCodeId,Observations,OriginalReadCode,CleansedReadCode,Term,SnomedCTConceptId,SnomedCTDescriptionId,EmisCodeCategoryId
+4059571000006115,5,^ESCTHE405957,,HELLP syndrome,95605009,158365013,32
+4059561000006110,89,^ESCTHA405956,,Haemolysis-elevated liver enzymes-low platelet count syndrome,95605009,1217316013,32
+819741000006116,3820,L12A,L12A.00,"HELLP - Syndrome of haemolysis, elevated liver enzymes and low platelet",95605009,1217317016,32
