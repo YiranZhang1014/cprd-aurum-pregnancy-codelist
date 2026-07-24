@@ -1,0 +1,38 @@
+MedCodeId,Term,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,Release,EmisCodeCategoryId
+3353401000006113,In vitro fertilization,^ESCTIN335340,,52637005,87600016,,32
+3353431000006117,In vitro fertilization procedure,^ESCTIN335343,,52637005,1218204019,,32
+7051121000006119,IVF - In vitro fertilization with intracytoplasmic sperm injection (ICSI),^ESCTIV705112,,425901007,2674414013,,32
+7066181000006117,In vitro fertilization using donor and egg intra-cytoplasmic sperm injection,^ESCTIN706618,,426914002,2674406019,,32
+7058801000006113,IVF - In vitro fertilization with pre-implantation genetic diagnosis,^ESCTIV705880,,426417003,2674392010,,32
+11928431000006110,In vitro fertilization using donor eggs,^ESCT1192843,,425866000,2674411017,,32
+7051161000006113,In vitro fertilization with intracytoplasmic sperm injection,^ESCTIN705116,,425901007,2674418011,,32
+7077251000006114,In vitro fertilization using donor sperm,^ESCTIN707725,,427664000,2674410016,,32
+7280601000006114,Conceived by in vitro fertilization,^ESCTCO728060,,443633009,2838708018,,31
+7051151000006111,In vitro fertilization with intra-cytoplasmic sperm injection,^ESCTIN705115,,425901007,2674417018,,32
+7077231000006119,IVF - In vitro fertilization using donor sperm,^ESCTIV707723,,427664000,2674408018,,32
+7066171000006115,In vitro fertilization using donor egg and intracytoplasmic sperm injection,^ESCTIN706617,,426914002,2674405015,,32
+7058821000006115,In vitro fertilization with preimplantation genetic diagnosis,^ESCTIN705882,,426417003,2674394011,,32
+7066141000006111,IVF - In vitro fertilization with intracytoplasmic sperm injection (ICSI) and donor egg,^ESCTIV706614,,426914002,2674402017,,32
+3353391000006111,Test tube ovum fertilization,^ESCTTE335339,,52637005,87599019,,32
+3353411000006111,Test tube ovum fertilisation,^ESCTTE335341,,52637005,496388010,,32
+1216714019,In vitro fertilisation procedure,8C84,8C84.00,52637005,1216714019,,32
+7077241000006112,In vitro fertilisation using donor sperm,^ESCTIN707724,,427664000,2674409014,,32
+12458591000006113,[V]In vitro fertilisation,^ESCT1245859,,440691000000100,906641000000116,,32
+1556431000006119,IVF - In vitro fertilisation using donor sperm,7M0h0,7M0h000,427664000,2674407011,,32
+1556451000006114,IVF - In vitro fertilisation with intracytoplasmic sperm injection (ICSI),7M0h2,7M0h200,425901007,2674413019,,32
+1556471000006116,IVF - In vitro fertilisation with pre-implantation genetic diagnosis,7M0h4,7M0h400,426417003,2674391015,,32
+1589501000006110,In vitro fertilisation using donor eggs,7M0h1-1,7M0h111,425866000,2674412012,,32
+7066161000006110,In vitro fertilisation using donor egg and intracytoplasmic sperm injection,^ESCTIN706616,,426914002,2674404016,,32
+373461000000114,Other specified in vitro fertilisation (IVF),7M0hy,7M0hy00,52637005,496387017,,32
+7280591000006118,Conceived by in vitro fertilisation,^ESCTCO728059,,443633009,2838707011,,31
+1556421000006117,In vitro fertilisation,7M0h,7M0h.00,52637005,496387017,,32
+1556441000006112,In vitro fertilisation using donor eggs,7M0h1,7M0h100,425866000,2674412012,,32
+7066151000006113,In vitro fertilisation using donor and egg intra-cytoplasmic sperm injection,^ESCTIN706615,,426914002,2674403010,,32
+1589491000006119,In vitro fertilisation with donor sperm,7M0h0-1,7M0h011,427664000,2674407011,,32
+1556461000006111,IVF - In vitro fertilisation with intracytoplasmic sperm injection (ICSI) and donor egg,7M0h3,7M0h300,426914002,2674401012,,32
+460523019,[V]In vitro fertilisation,ZV267,ZV26700,440691000000100,1008751000000119,,32
+1589511000006113,In vitro fertilisation with intra-cytoplasmic sperm injection,7M0h2-1,7M0h211,425901007,2674415014,,32
+7051141000006114,In vitro fertilisation with intracytoplasmic sperm injection,^ESCTIN705114,,425901007,2674416010,,32
+7058811000006111,In vitro fertilisation with preimplantation genetic diagnosis,^ESCTIN705881,,426417003,2674393017,,32
+373481000000117,In vitro fertilisation (IVF) NOS,7M0hz,7M0hz00,52637005,496387017,,32
+855511000006115,In vitro fertilisation,EGTON81,,855511000006104,855511000006115,,32
